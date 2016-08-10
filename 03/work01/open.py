@@ -15,7 +15,7 @@ def fetch(backend):
             if flag and line.startswith('backend'):
                 flag = False
                 break
-            if flag and line:
+            if flag and line.strip():
                 record_list.append(line)
     return record_list
 
@@ -23,7 +23,10 @@ def add(dict_info):
     backend = dict_info.get("backend")
     backend_title = "backend %s" % backend
     record_list = fetch(backend)
-    current_record = "server %s %s weight %d maxconn %d" % (dict_info['record']['server'],dict_info['record']['server'],dict_info['record']['weight'],dict_info['record']['maxconn'])
+    current_record = "server %s %s weight %d maxconn %d" % (dict_info['record']['server'],
+                                                            dict_info['record']['server'],
+                                                            dict_info['record']['weight'],
+                                                            dict_info['record']['maxconn'])
     if not record_list:
         record_list.append(backend_title)
         record_list.append(current_record)
@@ -66,15 +69,14 @@ def add(dict_info):
 
 
 
+
 if __name__ == '__main__':
     print('1.获取；2.添加；3.删除')
     num = input('请输入序号：')
     data = input('请输入内容：')
     if num == '1':
         record_list = fetch(data)
-        for i in record_list:
-            print(i)
-            exit()
+        print(record_list)
     else:
         dict_data = json.loads(data)
         add(dict_data)
