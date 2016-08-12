@@ -25,7 +25,7 @@ def add(backend,record):
             for line in f_read:
                 f_write.write(line)
             f_write.write("\nbackend %s\n" % backend)
-            f_write.write(" " * 8 + '%s \n' % record)
+            f_write.write('%s%s\n' % (" " * 8,record))
     else:
         # backend 存在时:
         if record in record_list:
@@ -41,7 +41,7 @@ def add(backend,record):
                         flag = True
                         f_write.write(line)
                         for i in record_list:
-                            f_write.write(" "*8 + '%s\n' % i)
+                            f_write.write('%s%s\n' % (" "*8,i))
                         continue
                     if flag and line.strip().startswith("backend"):
                         flag = False
@@ -53,24 +53,44 @@ def add(backend,record):
 
 def remove(backend,record):
     record_list = get(backend)
+    backend_title = "backend %s" % backend
     if record_list:
-        pass
+        if record not in record_list:
+            print("\033[31m你输入的内容不存在。\033[0m")
+            return
+        else:
+            record_list.remove(record)
+        with open('haproxy.conf','r') as f_read, open('haproxy.new','w') as f_write:
+            flag = False
+            for line in f_read:
+                if line.strip() == backend_title:
+                    f_write.write(line)
+                    flag = True
+                    continue
+                if flag == True and line.startswith("backend"):
+                    flag = False
+                if flag == True:
+                    for new_line in record_list:
+                        new_record = "%s%s\n" % (" "*8,new_line)
+                        f_write.write(new_record)
+                else:
+                    f_write.write(line)
     else:
-        print("您要删除的记录不存在！")
-        exit()
+        print("\033[31m您要删除的记录不存在！\033[0m")
+        return
+    os.replace('haproxy.new','haproxy.conf')
 
 
 if __name__ == "__main__":
     while True:
-        print("HAProxy配置菜单：\n1.查找\n2.添加\n3.删除")
-        user_choose = input("请输入您要操作的序号：")
+        print("\033[47mHAProxy配置菜单：\033[0m\n1.查找\n2.添加\n3.删除\nq.退出")
+        user_choose = input("\033[31m请输入您要操作的序号：\033[0m")
         if user_choose == "1":
-            data = input("请输入域名（eg:www.oldboy.org）：")
+            data = input("\033[31m请输入域名（eg:www.oldboy.org）：\033[0m")
             a = get(data)
-            str = a[0],"\n",a[1]
-            print(str)
+            print(a)
         elif user_choose == "2":
-            data = input("请输入要添加的内容：")
+            data = input("\033[31m请输入要添加的内容：\033[0m")
             dic_data = json.loads(data)
             backend = dic_data.get("backend")
             record = "server %s %s weight %s maxconn %s" % (dic_data["record"]["server"],
@@ -79,13 +99,15 @@ if __name__ == "__main__":
                                                             dic_data["record"]["maxconn"])
             add(backend,record)
         elif user_choose == "3":
-            data = input("请输入要删除的内容：")
+            data = input("\033[31m请输入要删除的内容：\033[0m")
             dic_data = json.loads(data)
-            backend = dic_data.get("backend")
+            backend = dic_data["backend"]
             record = "server %s %s weight %s maxconn %s" % (dic_data["record"]["server"],
                                                             dic_data["record"]["server"],
                                                             dic_data["record"]["weight"],
                                                             dic_data["record"]["maxconn"])
             remove(backend,record)
+        elif user_choose == "q":
+            quit()
         else:
-            print("输入有误,请重新输入！")
+            print("\033[31m输入有误,请重新输入！\033[0m")
