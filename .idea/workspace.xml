@@ -2,71 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b48eba0b-35b8-4f5e-af0d-2c2e34054065" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/task/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/task/bin/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/task/bin/atm_index.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/task/conf/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/task/conf/settings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/task/db/1001/base_info.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/task/db/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/task/logs/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/task/src/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/task/src/atm.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/task/src/db_conn.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/task/src/db_handle.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/task/src/deal.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/xmldata.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/blog.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/note.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/task/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/task/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/task/bin/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/task/conf/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/task/conf/settings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/task/db/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/task/src/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/task/src/db_handle.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/task/src/db_save.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/task/src/main.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/task/src/manage.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/task/src/role.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/继承-school.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/继承.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/note/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/note/note.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/note/反射.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/note/异常处理.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/socket/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/socket/socket_client.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/socket/socket_server.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/反射练习/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/反射练习/comments.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/反射练习/index.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08/SocketClientNew.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08/SocketServerNew.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08/ftp_md5/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08/ftp_md5/socket_client.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08/ftp_md5/socket_server.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08/lib/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08/lib/aa.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08/note.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08/socket_client.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08/socket_server.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08/task/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08/动态导入模块.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test1/rds.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04/task/ATM_Mall/bin/atm_index.py" afterPath="$PROJECT_DIR$/04/task/ATM_Mall/bin/atm_index.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04/task/ATM_Mall/conf/settings.py" afterPath="$PROJECT_DIR$/04/task/ATM_Mall/conf/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04/task/ATM_Mall/src/atm.py" afterPath="$PROJECT_DIR$/04/task/ATM_Mall/src/atm.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04/task/ATM_Mall/src/atm_login.py" afterPath="$PROJECT_DIR$/04/task/ATM_Mall/src/atm_login.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04/task/ATM_Mall/src/manage.py" afterPath="$PROJECT_DIR$/04/task/ATM_Mall/src/manage.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/05/note.py" afterPath="$PROJECT_DIR$/05/note.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test1/wangshuaibo.py" afterPath="$PROJECT_DIR$/test1/wangshuaibo.py" />
     </list>
     <ignored path="s14.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -696,7 +632,13 @@
       <option name="project" value="LOCAL" />
       <updated>1471655743955</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="huyuedong">
+      <created>1473833800629</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1473833800629</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -705,6 +647,7 @@
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18081991" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -715,7 +658,6 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39967105" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
