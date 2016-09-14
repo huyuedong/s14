@@ -5,24 +5,29 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from conf import settings
 from src import db_conn
 
-
 def login(arg):
+    '''
+    ATM机账户登录验证
+    :param arg:1.个人用户验证 2.管理员后台验证
+    :return:
+    '''
     def wrapper(func):
         def inner(*args):
             while True:
                 if arg == 1:
                     card_id = input("请输入银行卡号：").strip()
                     user_info_file = os.path.join(settings.USER_INFO_DIR,str(card_id),'base_info.json')
-                    db =db_conn.read_db(user_info_file)
-                    password = input("请输入密码：").strip()
-                    if os.path.exists(user_info_file):
-                        if password == db['password']:
-                            print("登录成功！")
-                            func(*args)
+                    while user_info_file:
+                        db =db_conn.read_db(user_info_file)
+                        password = input("请输入密码：").strip()
+                        if os.path.exists(user_info_file):
+                            if password == db['password']:
+                                print("登录成功！")
+                                func(card_id)
+                            else:
+                                print("密码错误！")
                         else:
-                            print("密码错误！")
-                    else:
-                        print("该账号不存在！")
+                            print("该账号不存在！")
                 elif arg == 2:
                     admin_info_file = os.path.join(settings.ADMIN_INFO_DIR,'base_info.json')
                     db = db_conn.read_db(admin_info_file)

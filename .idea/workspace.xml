@@ -2,21 +2,71 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b48eba0b-35b8-4f5e-af0d-2c2e34054065" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04/task/ATM_Mall/conf/settings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04/task/ATM_Mall/db/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04/task/ATM_Mall/db/admin/base_info.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04/task/ATM_Mall/src/atm.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04/task/ATM_Mall/src/db_conn.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04/task/ATM_Mall/src/main.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04/task/ATM_Mall/src/manage.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04/task/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/note.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/04/coding.py" afterPath="$PROJECT_DIR$/04/task/ATM_Mall/src/atm_login.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/04/task/ATM/__init__.py" afterPath="$PROJECT_DIR$/04/task/ATM_Mall/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/04/task/shopping_mall/__init__.py" afterPath="$PROJECT_DIR$/04/task/ATM_Mall/bin/atm_index.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/task/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/task/bin/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/task/bin/atm_index.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/task/conf/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/task/conf/settings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/task/db/1001/base_info.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/task/db/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/task/logs/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/task/src/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/task/src/atm.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/task/src/db_conn.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/task/src/db_handle.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/task/src/deal.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/xmldata.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/blog.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/note.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/task/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/task/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/task/bin/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/task/conf/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/task/conf/settings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/task/db/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/task/src/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/task/src/db_handle.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/task/src/db_save.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/task/src/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/task/src/manage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/task/src/role.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/继承-school.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/继承.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/note/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/note/note.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/note/反射.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/note/异常处理.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/socket/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/socket/socket_client.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/socket/socket_server.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/反射练习/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/反射练习/comments.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/反射练习/index.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08/SocketClientNew.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08/SocketServerNew.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08/ftp_md5/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08/ftp_md5/socket_client.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08/ftp_md5/socket_server.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08/lib/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08/lib/aa.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08/note.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08/socket_client.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08/socket_server.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08/task/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08/动态导入模块.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test1/rds.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04/test/test.py" afterPath="$PROJECT_DIR$/04/test/test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04/task/ATM_Mall/bin/atm_index.py" afterPath="$PROJECT_DIR$/04/task/ATM_Mall/bin/atm_index.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04/task/ATM_Mall/conf/settings.py" afterPath="$PROJECT_DIR$/04/task/ATM_Mall/conf/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04/task/ATM_Mall/src/atm.py" afterPath="$PROJECT_DIR$/04/task/ATM_Mall/src/atm.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04/task/ATM_Mall/src/atm_login.py" afterPath="$PROJECT_DIR$/04/task/ATM_Mall/src/atm_login.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04/task/ATM_Mall/src/manage.py" afterPath="$PROJECT_DIR$/04/task/ATM_Mall/src/manage.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/05/note.py" afterPath="$PROJECT_DIR$/05/note.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test1/wangshuaibo.py" afterPath="$PROJECT_DIR$/test1/wangshuaibo.py" />
     </list>
     <ignored path="s14.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,27 +81,47 @@
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/s14$index_login.coverage" NAME="index_login Coverage Results" MODIFIED="1471532899146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/shaolin" />
-    <SUITE FILE_PATH="coverage/s14$atm_index.coverage" NAME="atm_index Coverage Results" MODIFIED="1471545752047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04/task/ATM_Mall/bin" />
-    <SUITE FILE_PATH="coverage/s14$db_conn.coverage" NAME="db_conn Coverage Results" MODIFIED="1471532719300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04/task/ATM_Mall/src" />
+    <SUITE FILE_PATH="coverage/s14$note.coverage" NAME="note Coverage Results" MODIFIED="1472984657107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07/note" />
     <SUITE FILE_PATH="coverage/s14$atm_login.coverage" NAME="atm_login Coverage Results" MODIFIED="1471540525072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04/task/ATM_Mall/src" />
+    <SUITE FILE_PATH="coverage/s14$edit_ha.coverage" NAME="edit_ha Coverage Results" MODIFIED="1470930504520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03/work01" />
+    <SUITE FILE_PATH="coverage/s14$socket_client.coverage" NAME="socket_client Coverage Results" MODIFIED="1473815376894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08/ftp_md5" />
+    <SUITE FILE_PATH="coverage/s14$open.coverage" NAME="open Coverage Results" MODIFIED="1470842065416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03/work01" />
+    <SUITE FILE_PATH="coverage/s14$account_sample.coverage" NAME="account_sample Coverage Results" MODIFIED="1472048642075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5-atm/atm/db" />
+    <SUITE FILE_PATH="coverage/s14$rds.coverage" NAME="rds Coverage Results" MODIFIED="1473321253072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test1" />
+    <SUITE FILE_PATH="coverage/s14$coding.coverage" NAME="coding Coverage Results" MODIFIED="1471070122859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04" />
+    <SUITE FILE_PATH="coverage/s14$main.coverage" NAME="main Coverage Results" MODIFIED="1472742926839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06/task/src" />
+    <SUITE FILE_PATH="coverage/s14$atm.coverage" NAME="atm Coverage Results" MODIFIED="1472132029892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04/task/ATM_Mall/src" />
+    <SUITE FILE_PATH="coverage/s14$atm_index__1_.coverage" NAME="atm_index (1) Coverage Results" MODIFIED="1472261973585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04/task/ATM_Mall/bin" />
+    <SUITE FILE_PATH="coverage/s14$role.coverage" NAME="role Coverage Results" MODIFIED="1472659084929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06/task/src" />
+    <SUITE FILE_PATH="coverage/s14$index.coverage" NAME="index Coverage Results" MODIFIED="1472969637496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07/反射练习" />
+    <SUITE FILE_PATH="coverage/s14$SocketServerNew.coverage" NAME="SocketServerNew Coverage Results" MODIFIED="1473501688005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08" />
+    <SUITE FILE_PATH="coverage/s14$db_operater.coverage" NAME="db_operater Coverage Results" MODIFIED="1471532861037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework5/atm_mall/general_module" />
+    <SUITE FILE_PATH="coverage/s14$socket_server__1_.coverage" NAME="socket_server (1) Coverage Results" MODIFIED="1473491231035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08" />
+    <SUITE FILE_PATH="coverage/s14$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1472741608637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06/task/bin" />
+    <SUITE FILE_PATH="coverage/s14$socket_client__2_.coverage" NAME="socket_client (2) Coverage Results" MODIFIED="1473501257978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08/socket_md5" />
+    <SUITE FILE_PATH="coverage/s14$atm_index.coverage" NAME="atm_index Coverage Results" MODIFIED="1472089773823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05/task/bin" />
+    <SUITE FILE_PATH="coverage/s14$db_conn.coverage" NAME="db_conn Coverage Results" MODIFIED="1471532719300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04/task/ATM_Mall/src" />
+    <SUITE FILE_PATH="coverage/s14$SocketClientNew.coverage" NAME="SocketClientNew Coverage Results" MODIFIED="1473501711582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08" />
+    <SUITE FILE_PATH="coverage/s14$db_handle.coverage" NAME="db_handle Coverage Results" MODIFIED="1472047170410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05/task/src" />
     <SUITE FILE_PATH="coverage/s14$setting.coverage" NAME="setting Coverage Results" MODIFIED="1471532812316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework5/atm_mall/conf" />
-    <SUITE FILE_PATH="coverage/s14$settings.coverage" NAME="settings Coverage Results" MODIFIED="1471539109340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04/task/ATM_Mall/conf" />
+    <SUITE FILE_PATH="coverage/s14$transaction.coverage" NAME="transaction Coverage Results" MODIFIED="1471878345441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5-atm/atm/core" />
+    <SUITE FILE_PATH="coverage/s14$database.coverage" NAME="database Coverage Results" MODIFIED="1472376220257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06/task/db" />
+    <SUITE FILE_PATH="coverage/s14$settings.coverage" NAME="settings Coverage Results" MODIFIED="1472379250099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06/task/conf" />
     <SUITE FILE_PATH="coverage/s14$sed.coverage" NAME="sed Coverage Results" MODIFIED="1470930502257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03/work01" />
     <SUITE FILE_PATH="coverage/s14$shopping_mall.coverage" NAME="shopping_mall Coverage Results" MODIFIED="1471349288549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02/homework" />
-    <SUITE FILE_PATH="coverage/s14$edit_ha.coverage" NAME="edit_ha Coverage Results" MODIFIED="1470930504520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03/work01" />
-    <SUITE FILE_PATH="coverage/s14$.coverage" NAME="迭代器 Coverage Results" MODIFIED="1471318086862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04/test" />
-    <SUITE FILE_PATH="coverage/s14$open.coverage" NAME="open Coverage Results" MODIFIED="1470842065416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03/work01" />
-    <SUITE FILE_PATH="coverage/s14$account_sample.coverage" NAME="account_sample Coverage Results" MODIFIED="1471448980973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5-atm/atm/db" />
+    <SUITE FILE_PATH="coverage/s14$.coverage" NAME="动态导入模块 Coverage Results" MODIFIED="1473580995343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08" />
     <SUITE FILE_PATH="coverage/s14$test.coverage" NAME="test Coverage Results" MODIFIED="1471318841062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04/test" />
-    <SUITE FILE_PATH="coverage/s14$coding.coverage" NAME="coding Coverage Results" MODIFIED="1471070122859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04" />
-    <SUITE FILE_PATH="coverage/s14$main.coverage" NAME="main Coverage Results" MODIFIED="1471337796583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py_training-master/sample_code/day5-atm/atm/core" />
-    <SUITE FILE_PATH="coverage/s14$atm.coverage" NAME="atm Coverage Results" MODIFIED="1471540975655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04/task/ATM_Mall/bin" />
-    <SUITE FILE_PATH="coverage/s14$manage.coverage" NAME="manage Coverage Results" MODIFIED="1471541474868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04/task/ATM_Mall/src" />
+    <SUITE FILE_PATH="coverage/s14$socket_server__2_.coverage" NAME="socket_server (2) Coverage Results" MODIFIED="1473497383365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08/socket_md5" />
+    <SUITE FILE_PATH="coverage/s14$socket_server.coverage" NAME="socket_server Coverage Results" MODIFIED="1473815372775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08/ftp_md5" />
+    <SUITE FILE_PATH="coverage/s14$deal.coverage" NAME="deal Coverage Results" MODIFIED="1472052981782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05/task/src" />
+    <SUITE FILE_PATH="coverage/s14$socket_client__1_.coverage" NAME="socket_client (1) Coverage Results" MODIFIED="1473501412229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08" />
+    <SUITE FILE_PATH="coverage/s14$manage.coverage" NAME="manage Coverage Results" MODIFIED="1472739372032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06/task/src" />
     <SUITE FILE_PATH="coverage/s14$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1471167193164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04/test" />
+    <SUITE FILE_PATH="coverage/s14$xml_test.coverage" NAME="xml_test Coverage Results" MODIFIED="1471690063125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05" />
+    <SUITE FILE_PATH="coverage/s14$blog.coverage" NAME="blog Coverage Results" MODIFIED="1472369118588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06" />
+    <SUITE FILE_PATH="coverage/s14$_school.coverage" NAME="继承-school Coverage Results" MODIFIED="1472566660412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06" />
     <SUITE FILE_PATH="coverage/s14$shopping.coverage" NAME="shopping Coverage Results" MODIFIED="1471352841704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04/task/ATM_Mall/bin" />
-    <SUITE FILE_PATH="coverage/s14$index.coverage" NAME="index Coverage Results" MODIFIED="1471533105569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework5/atm_mall" />
-    <SUITE FILE_PATH="coverage/s14$db_operater.coverage" NAME="db_operater Coverage Results" MODIFIED="1471532861037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework5/atm_mall/general_module" />
-    <SUITE FILE_PATH="coverage/s14$atm__1_.coverage" NAME="atm (1) Coverage Results" MODIFIED="1471544633281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04/task/ATM_Mall/src" />
+    <SUITE FILE_PATH="coverage/s14$atm__1_.coverage" NAME="atm (1) Coverage Results" MODIFIED="1472092702497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05/task/src" />
     <SUITE FILE_PATH="coverage/s14$mall_login.coverage" NAME="mall_login Coverage Results" MODIFIED="1471351952922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework5/atm_mall/mall" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -62,12 +132,22 @@
     <favorites_list name="s14" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="note.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/05/note.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="socket_client.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/08/socket_client.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.098445594">
-              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="socket_server.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/08/socket_server.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.671848">
+              <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -99,47 +179,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/03/work01/test.py" />
-        <option value="$PROJECT_DIR$/03/work01/open.py" />
-        <option value="$PROJECT_DIR$/03/work01/haproxy.new" />
-        <option value="$PROJECT_DIR$/03/work01/edit_ha.py" />
-        <option value="$PROJECT_DIR$/03/work01/haproxy.conf" />
-        <option value="$PROJECT_DIR$/03/work01/data" />
-        <option value="$PROJECT_DIR$/03/work01/sed.py" />
-        <option value="$PROJECT_DIR$/03/work02/README.md" />
-        <option value="$PROJECT_DIR$/03/coding.py" />
-        <option value="$PROJECT_DIR$/04/coding.py" />
-        <option value="$PROJECT_DIR$/04/生成器.py" />
-        <option value="$PROJECT_DIR$/04/生成器并行.py" />
-        <option value="$PROJECT_DIR$/04/迭代器.py" />
-        <option value="$PROJECT_DIR$/04/test/test2.py" />
-        <option value="$PROJECT_DIR$/04/test/装饰器.py" />
-        <option value="$PROJECT_DIR$/04/test/迭代器.py" />
-        <option value="$PROJECT_DIR$/04/task/ATM/core/main.py" />
-        <option value="$PROJECT_DIR$/04/test/test.py" />
-        <option value="$PROJECT_DIR$/04/task/ATM_Mall/core/mall_login.py" />
-        <option value="$PROJECT_DIR$/04/task/ATM_Mall/core/atm_login.py" />
-        <option value="$PROJECT_DIR$/04/task/ATM_Mall/db/account.py" />
-        <option value="$PROJECT_DIR$/04/task/ATM_Mall/conf/setting.py" />
-        <option value="$PROJECT_DIR$/04/task/ATM_Mall/bin/shopping.py" />
-        <option value="$PROJECT_DIR$/day5-atm/atm/db/accounts/1234.json" />
-        <option value="$PROJECT_DIR$/04/task/ATM_Mall/core/main.py" />
-        <option value="$PROJECT_DIR$/04/task/ATM_Mall/db/user_account.py" />
-        <option value="$PROJECT_DIR$/04/task/ATM_Mall/db/user_accounts/1001.json" />
-        <option value="$PROJECT_DIR$/homework5/atm_mall/database/init_account_db.py" />
-        <option value="$PROJECT_DIR$/04/task/ATM_Mall/bin/manage.py" />
-        <option value="$PROJECT_DIR$/homework5/atm_mall/conf/setting.py" />
-        <option value="$PROJECT_DIR$/04/task/ATM_Mall/src/db_conn.py" />
-        <option value="$PROJECT_DIR$/homework5/atm_mall/general_module/db_operater.py" />
-        <option value="$PROJECT_DIR$/04/task/ATM_Mall/db/1001/base_info.json" />
-        <option value="$PROJECT_DIR$/04/task/ATM_Mall/conf/settings.py" />
-        <option value="$PROJECT_DIR$/04/task/ATM_Mall/db/admin/base_info.json" />
-        <option value="$PROJECT_DIR$/04/task/ATM_Mall/bin/atm.py" />
+        <option value="$PROJECT_DIR$/05/test.py" />
+        <option value="$PROJECT_DIR$/Atm-wu/src/backend/logger.py" />
+        <option value="$PROJECT_DIR$/day5-atm/atm/conf/settings.py" />
+        <option value="$PROJECT_DIR$/05/task/src/db_conn.py" />
+        <option value="$PROJECT_DIR$/05/task/conf/settings.py" />
+        <option value="$PROJECT_DIR$/05/task/db/user_data/1001.json" />
+        <option value="$PROJECT_DIR$/05/task/db/admin_data/123.json" />
+        <option value="$PROJECT_DIR$/05/task/src/deal.py" />
+        <option value="$PROJECT_DIR$/05/task/bin/atm_index.py" />
+        <option value="$PROJECT_DIR$/05/task/src/atm.py" />
+        <option value="$PROJECT_DIR$/05/task/src/db_handle.py" />
         <option value="$PROJECT_DIR$/04/task/ATM_Mall/src/atm_login.py" />
         <option value="$PROJECT_DIR$/04/task/ATM_Mall/src/atm.py" />
+        <option value="$PROJECT_DIR$/04/task/ATM_Mall/conf/settings.py" />
         <option value="$PROJECT_DIR$/04/task/ATM_Mall/bin/atm_index.py" />
         <option value="$PROJECT_DIR$/04/task/ATM_Mall/src/manage.py" />
-        <option value="$PROJECT_DIR$/05/note.py" />
+        <option value="$PROJECT_DIR$/06/note.py" />
+        <option value="$PROJECT_DIR$/06/继承.py" />
+        <option value="$PROJECT_DIR$/06/继承-school.py" />
+        <option value="$PROJECT_DIR$/06/blog.py" />
+        <option value="$PROJECT_DIR$/06/task/src/sava_data.py" />
+        <option value="$PROJECT_DIR$/06/task/src/db_handle.py" />
+        <option value="$PROJECT_DIR$/06/task/conf/settings.py" />
+        <option value="$PROJECT_DIR$/06/task/src/role.py" />
+        <option value="$PROJECT_DIR$/06/task/bin/main.py" />
+        <option value="$PROJECT_DIR$/06/task/db/database.py" />
+        <option value="$PROJECT_DIR$/06/task/README.md" />
+        <option value="$PROJECT_DIR$/06/task/src/db_save.py" />
+        <option value="$PROJECT_DIR$/06/task/src/manage.py" />
+        <option value="$PROJECT_DIR$/06/task/src/main.py" />
+        <option value="$PROJECT_DIR$/07/note.py" />
+        <option value="$PROJECT_DIR$/07/note/异常处理.py" />
+        <option value="$PROJECT_DIR$/07/反射练习/comments.py" />
+        <option value="$PROJECT_DIR$/07/反射练习/index.py" />
+        <option value="$PROJECT_DIR$/07/note/反射.py" />
+        <option value="$PROJECT_DIR$/07/note/note.py" />
+        <option value="$PROJECT_DIR$/test1/rds.py" />
+        <option value="$PROJECT_DIR$/07/socket/socket_server.py" />
+        <option value="$PROJECT_DIR$/07/socket/socket_client.py" />
+        <option value="$PROJECT_DIR$/08/note.py" />
+        <option value="$PROJECT_DIR$/08/socket_md5/socket_server.py" />
+        <option value="$PROJECT_DIR$/08/socket_md5/socket_client.py" />
+        <option value="$PROJECT_DIR$/08/SocketClientNew.py" />
+        <option value="$PROJECT_DIR$/08/SocketServerNew.py" />
+        <option value="$PROJECT_DIR$/08/lib/aa.py" />
+        <option value="$PROJECT_DIR$/08/动态导入模块.py" />
+        <option value="$PROJECT_DIR$/08/socket_server.py" />
+        <option value="$PROJECT_DIR$/08/socket_client.py" />
+        <option value="$PROJECT_DIR$/03/work01/edit_ha.py" />
+        <option value="$PROJECT_DIR$/08/ftp_md5/socket_client.py" />
+        <option value="$PROJECT_DIR$/08/ftp_md5/socket_server.py" />
       </list>
     </option>
   </component>
@@ -167,7 +257,7 @@
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
-      <showMembers />
+      <showMembers ProjectPane="true" />
       <showModules />
       <showLibraryContents />
       <hideEmptyPackages />
@@ -179,7 +269,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <PATH>
@@ -218,118 +307,140 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="05" />
+              <option name="myItemId" value="08" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="s14" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="py" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="08" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="task" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/iaas_ops/cloud-op" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ChangesBrowser.SHOW_FLATTEN" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\huyuedong\py\04\task\ATM_Mall\db\admin" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\huyuedong\py\07\note" />
+      <recent name="C:\Users\huyuedong\py\05\task\db\1001" />
+      <recent name="C:\Users\huyuedong\py\05\task\db" />
       <recent name="C:\Users\huyuedong\py\04\task\ATM_Mall\src" />
       <recent name="C:\Users\huyuedong\s14\04\test" />
-      <recent name="C:\Users\huyuedong\s14\04\homework" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\huyuedong\py\08\socket_md5" />
+      <recent name="C:\Users\huyuedong\py\04\task\ATM_Mall\db\admin" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.atm_index">
-    <configuration default="false" name="atm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.socket_client">
+    <configuration default="false" name="SocketServerNew" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04/task/ATM_Mall/bin" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="s14" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\huyuedong\py\04\task\ATM_Mall\src\atm.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08/SocketServerNew.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="atm_login" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="SocketClientNew" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04/task/ATM_Mall/src" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="s14" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04/task/ATM_Mall/src/atm_login.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08/SocketClientNew.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="atm (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="动态导入模块" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04/task/ATM_Mall/src" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="s14" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04/task/ATM_Mall/src/atm.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08/动态导入模块.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="socket_server" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04/task/ATM_Mall/src" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08/ftp_md5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="s14" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04/task/ATM_Mall/src/manage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08/ftp_md5/socket_server.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="atm_index" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="socket_client" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04/task/ATM_Mall/bin" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08/ftp_md5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="s14" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04/task/ATM_Mall/bin/atm_index.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08/ftp_md5/socket_client.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -528,19 +639,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.atm" />
-      <item index="1" class="java.lang.String" itemvalue="Python.atm_login" />
-      <item index="2" class="java.lang.String" itemvalue="Python.atm (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Python.manage" />
-      <item index="4" class="java.lang.String" itemvalue="Python.atm_index" />
+      <item index="0" class="java.lang.String" itemvalue="Python.SocketServerNew" />
+      <item index="1" class="java.lang.String" itemvalue="Python.SocketClientNew" />
+      <item index="2" class="java.lang.String" itemvalue="Python.动态导入模块" />
+      <item index="3" class="java.lang.String" itemvalue="Python.socket_server" />
+      <item index="4" class="java.lang.String" itemvalue="Python.socket_client" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.atm_index" />
-        <item index="1" class="java.lang.String" itemvalue="Python.atm (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Python.manage" />
-        <item index="3" class="java.lang.String" itemvalue="Python.atm" />
-        <item index="4" class="java.lang.String" itemvalue="Python.atm_login" />
+        <item index="0" class="java.lang.String" itemvalue="Python.socket_client" />
+        <item index="1" class="java.lang.String" itemvalue="Python.socket_server" />
+        <item index="2" class="java.lang.String" itemvalue="Python.动态导入模块" />
+        <item index="3" class="java.lang.String" itemvalue="Python.SocketClientNew" />
+        <item index="4" class="java.lang.String" itemvalue="Python.SocketServerNew" />
       </list>
     </recent_temporary>
   </component>
@@ -579,32 +690,38 @@
       <option name="project" value="LOCAL" />
       <updated>1471268179351</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="huyuedong">
+      <created>1471655743955</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1471655743955</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13836017" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18081991" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48355263" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39967105" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20978262" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39967105" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="UnknownFeatures">
@@ -634,116 +751,18 @@
           <option name="timeStamp" value="188" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="189" />
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="203" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/02/homework02/shop_car.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02/homework/shopping_mall.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39378238">
-          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day5-atm/atm/bin/manage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04/task/ATM_Mall/src/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.06397306">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm50/system/python_stubs/-1313743207/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334">
-          <caret line="4683" column="8" selection-start-line="4683" selection-start-column="8" selection-end-line="4683" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day5-atm/atm/core/transaction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.115716755">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day5-atm/atm/bin/atm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.328152">
-          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day5-atm/atm/db/account_sample.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4265976">
-          <caret line="13" column="54" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day5-atm/atm/db/accounts/1234.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="0" column="138" selection-start-line="0" selection-start-column="138" selection-end-line="0" selection-end-column="138" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python35/Lib/genericpath.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.56041133">
-          <caret line="142" column="0" selection-start-line="142" selection-start-column="0" selection-end-line="142" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python35/Lib/json/decoder.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.78223497">
-          <caret line="356" column="0" selection-start-line="356" selection-start-column="0" selection-end-line="356" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03/work01/edit_ha.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.8782235">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python35/Lib/json/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3323782">
-          <caret line="242" column="4" selection-start-line="242" selection-start-column="4" selection-end-line="242" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day5-atm/atm/conf/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29942694">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day5-atm/atm/core/db_handler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3538682">
-          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/04/task/ATM_Mall/db/1002/base_info.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -751,10 +770,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04/task/ATM_Mall/src/db_conn.py">
+    <entry file="file://C:/Python35/Lib/xml/etree/ElementTree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32664755">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.33242506">
+          <caret line="1181" column="0" selection-start-line="1181" selection-start-column="0" selection-end-line="1181" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1312608">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05/note.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.04835924">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05/xmldata.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05/task/src/db_conn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29533678">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05/task/src/deal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.24250682">
+          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05/task/db/1001/base_info.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="135" selection-start-line="0" selection-start-column="135" selection-end-line="0" selection-end-column="135" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05/task/bin/atm_index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46594006">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05/task/src/atm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17711172">
+          <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04/task/ATM_Mall/db/admin/base_info.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="10" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -765,73 +847,285 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/04/task/ATM_Mall/src/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.098445594">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04/task/ATM_Mall/src/atm_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/04/task/ATM_Mall/conf/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19054441">
-          <caret line="7" column="14" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.29533678">
+          <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day5-atm/atm/core/main.py">
+    <entry file="file://$PROJECT_DIR$/04/task/ATM_Mall/src/manage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.9942694">
-          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+        <state vertical-scroll-proportion="0.0328152">
+          <caret line="41" column="36" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day5-atm/atm/core/accounts.py">
+    <entry file="file://$PROJECT_DIR$/04/task/ATM_Mall/src/atm.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4355301">
-          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        <state vertical-scroll-proportion="3.5768566">
+          <caret line="112" column="14" selection-start-line="112" selection-start-column="14" selection-end-line="112" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day5-atm/atm/core/auth.py">
+    <entry file="file://$PROJECT_DIR$/04/task/ATM_Mall/bin/atm_index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37651122">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06/blog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.554622">
+          <caret line="64" column="22" selection-start-line="64" selection-start-column="22" selection-end-line="64" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06/继承.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5588235">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06/note.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6785714">
+          <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05/task/conf/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21243523">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05/task/src/db_handle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.49222797">
+          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04/task/ATM_Mall/src/db_conn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39378238">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06/继承-school.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06/task/src/db_save.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.098445594">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06/task/src/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1312608">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06/task/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor vertical-scroll-proportion="0.36328873">
+            <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06/task/conf/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.328152">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06/task/src/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.1485319">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06/task/db/20160901_151511">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04/task/ATM_Mall/src/atm_login.py">
+    <entry file="file://$PROJECT_DIR$/06/task/src/db_handle.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5444126">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.2625216">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04/task/ATM_Mall/src/atm.py">
+    <entry file="file://$PROJECT_DIR$/06/task/src/role.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.40114614">
-          <caret line="71" column="26" selection-start-line="71" selection-start-column="26" selection-end-line="71" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.49050087">
+          <caret line="59" column="40" selection-start-line="59" selection-start-column="40" selection-end-line="59" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04/task/ATM_Mall/src/manage.py">
+    <entry file="file://$PROJECT_DIR$/07/note/异常处理.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6733524">
-          <caret line="30" column="36" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
+        <state vertical-scroll-proportion="0.7368421">
+          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04/task/ATM_Mall/db/admin/base_info.json">
+    <entry file="file://$PROJECT_DIR$/07/note/反射.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="0" column="10" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="10" />
+        <state vertical-scroll-proportion="0.44214162">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04/task/ATM_Mall/bin/atm_index.py">
+    <entry file="file://$PROJECT_DIR$/07/note/note.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.517192">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.5734024">
+          <caret line="118" column="33" selection-start-line="118" selection-start-column="33" selection-end-line="118" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/05/note.py">
+    <entry file="file://$PROJECT_DIR$/07/反射练习/index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45941278">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07/反射练习/comments.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.164076">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/rds.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.475">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07/socket/socket_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42326733">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07/socket/socket_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.65841585">
+          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08/note.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.098445594">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08/SocketServerNew.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45941278">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08/SocketClientNew.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0656304">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08/动态导入模块.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48579547">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08/lib/aa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16193181">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03/work01/edit_ha.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.656304">
+          <caret line="47" column="28" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08/ftp_md5/socket_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.041450776">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08/ftp_md5/socket_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22970639">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08/socket_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08/socket_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.671848">
+          <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
           <folding />
         </state>
       </provider>

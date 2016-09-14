@@ -111,7 +111,7 @@
 # 	passwd=raw_input('Login Password:')
 # 	if Login(user,passwd):
 # 		print u'登陆成功'
-# 		ShopCar('admin',10,[])
+# 		ShopCar('admin_data',10,[])
 # 		menu(user)
 # 	else:
 # 		print u'用户%s密码不对,还有%s次机会 ' % (user,Lock(user,True))

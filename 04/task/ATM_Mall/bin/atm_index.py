@@ -6,18 +6,25 @@ from src import atm
 from src import manage
 
 def main():
+    menu = '''
+    -----ATM机-----
+    1.个人用户登录
+    2.管理后台登录
+    Q.退出
+    '''
+    print(menu)
+    menu_dic = {
+        '1':atm.main_body,
+        '2':manage.main_body,
+    }
     while True:
-        print(">>>欢迎使用ATM机<<<")
-        choose = input("1.用户登录\n2.后台管理\n3.Q：退出").strip()
-        if choose == "1":
-            atm.main_body()
-        elif choose == '2':
-            manage.main_body()
-        elif choose == 'q':
+        user_choose = input("请选择：").strip()
+        if user_choose in menu_dic:
+            menu_dic[user_choose]()
+        elif user_choose == 'q':
             exit(0)
         else:
-            print("输入错误！")
-
+            print("您选择的功能不存在！")
 
 if __name__ == "__main__":
 	main()
