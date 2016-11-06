@@ -2,37 +2,108 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b48eba0b-35b8-4f5e-af0d-2c2e34054065" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04/task/ATM_Mall/bin/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04/task/ATM_Mall/conf/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04/task/ATM_Mall/db/1001/base_info.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04/task/ATM_Mall/db/1002/base_info.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04/task/ATM_Mall/logs/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04/task/ATM_Mall/src/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/task/db/20160901_151511" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08/task/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08/task/ftp_client/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08/task/ftp_client/ftp_client.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08/task/ftp_server/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08/task/ftp_server/bin/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08/task/ftp_server/conf/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08/task/ftp_server/log/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08/task/ftp_server/src/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08/task/ftp_server/src/ftp_server.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09/huyd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09/id_rsa" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09/id_rsa_100" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09/note.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09/paramiko_key.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09/paramiko_sftp.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09/paramiko_ssh.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09/task/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09/task/bin/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09/task/conf/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09/task/log/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09/task/src/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09/threading_1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09/信号量.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09/红绿灯.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/task/ftp_client/testfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14/review/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08/task/ftp_client/123.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08/task/ftp_client/666" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09/task/bin/index.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09/task/conf/setting.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09/task/src/cmd.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/Pipe.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/ProcessPool.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/a.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/get_process_id.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/manage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/note.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/socket_client.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/socket_server.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/task/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/task/ftp_client/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/task/ftp_client/ftp_client.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/task/ftp_server/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/task/ftp_server/bin/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/task/ftp_server/bin/ftp_server.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/task/ftp_server/conf/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/task/ftp_server/log/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/task/ftp_server/src/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/协程.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/协程gevent.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/协程爬虫.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/多进程.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10/进程Q.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11/RPC/Client.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11/RPC/Server.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11/director/publisher.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11/director/subscriber.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11/fanout/fanout_consumer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11/fanout/fanout_producer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11/notes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11/pika/receive.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11/pika/send.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11/redis/redis_conn.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11/task/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11/task/RPC_client.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11/task/RPC_server.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11/task/RabbitMQ_RPC/RPC_Client.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11/task/RabbitMQ_RPC/RPC_Master.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11/topic/consumer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11/topic/publisher.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12/ORM/create1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12/ORM/insert1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12/ORM/orm_api.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12/ORM/orm_b1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12/ORM/外键关联.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12/ORM/多对多.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12/ORM_basic.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12/ORM_basic2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12/homework/bin/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12/homework/conf/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12/homework/core/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12/homework/core/db_details.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12/pymysql_mod.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/13/bastion_hosts/conf/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/13/bastion_hosts/conf/settings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/13/bastion_hosts/core/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/13/bastion_hosts/log/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/13/bastion_hosts/modules/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/13/bastion_hosts/modules/db_modules.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/13/demos/demo.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/13/demos/demo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/13/demos/demo_keygen.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/13/demos/demo_server.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/13/demos/demo_sftp.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/13/demos/demo_simple.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/13/demos/forward.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/13/demos/interactive.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/13/demos/rforward.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/13/demos/test_rsa.key" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/13/demos/user_rsa_key" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/13/demos/user_rsa_key.pub" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/13/note.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/13/test.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14/html/app.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14/html/css1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14/html/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14/html/s4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14/html/s5.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14/html/表格.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14/html/表格2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14/html/锚.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14/note" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14/review/s1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test1/20161012/Process_mod.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test1/20161012/process.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test1/20161012/productor.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test1/20161012/queue.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test1/20161012/thread_mod.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test1/20161012/timer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test1/20161012/事件.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test1/20161012/信号量.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test1/20161012/条件.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test1/20161012/递归锁.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test1/test00.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="s14.iws" />
@@ -48,54 +119,96 @@
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/s14$atm_login.coverage" NAME="atm_login Coverage Results" MODIFIED="1471540525072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04/task/ATM_Mall/src" />
+    <SUITE FILE_PATH="coverage/s14$RPC_server.coverage" NAME="RPC_server Coverage Results" MODIFIED="1476889504023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11/task" />
+    <SUITE FILE_PATH="coverage/s14$gevent.coverage" NAME="协程gevent Coverage Results" MODIFIED="1474700716487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10" />
+    <SUITE FILE_PATH="coverage/s14$Process_mod.coverage" NAME="Process_mod Coverage Results" MODIFIED="1476274986312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test1/20161012" />
+    <SUITE FILE_PATH="coverage/s14$get_process_id.coverage" NAME="get_process_id Coverage Results" MODIFIED="1474686235116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10" />
+    <SUITE FILE_PATH="coverage/s14$fanout_producer.coverage" NAME="fanout_producer Coverage Results" MODIFIED="1476509060869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11/fanout" />
+    <SUITE FILE_PATH="coverage/s14$RPC_Master.coverage" NAME="RPC_Master Coverage Results" MODIFIED="1477016448580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11/task/RabbitMQ_RPC" />
+    <SUITE FILE_PATH="coverage/s14$orm_api.coverage" NAME="orm_api Coverage Results" MODIFIED="1477564880209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12/ORM" />
+    <SUITE FILE_PATH="coverage/s14$Pipe.coverage" NAME="Pipe Coverage Results" MODIFIED="1474688333148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10" />
+    <SUITE FILE_PATH="coverage/s14$ORM_basic2.coverage" NAME="ORM_basic2 Coverage Results" MODIFIED="1477486271499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12" />
     <SUITE FILE_PATH="coverage/s14$open.coverage" NAME="open Coverage Results" MODIFIED="1470842065416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03/work01" />
     <SUITE FILE_PATH="coverage/s14$account_sample.coverage" NAME="account_sample Coverage Results" MODIFIED="1472048642075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5-atm/atm/db" />
+    <SUITE FILE_PATH="coverage/s14$db_modules.coverage" NAME="db_modules Coverage Results" MODIFIED="1477725140122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13/bastion_hosts/modules" />
     <SUITE FILE_PATH="coverage/s14$coding.coverage" NAME="coding Coverage Results" MODIFIED="1471070122859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04" />
     <SUITE FILE_PATH="coverage/s14$atm.coverage" NAME="atm Coverage Results" MODIFIED="1472132029892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04/task/ATM_Mall/src" />
+    <SUITE FILE_PATH="coverage/s14$send.coverage" NAME="send Coverage Results" MODIFIED="1476504445917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11/pika" />
     <SUITE FILE_PATH="coverage/s14$SocketServerNew.coverage" NAME="SocketServerNew Coverage Results" MODIFIED="1473501688005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08" />
     <SUITE FILE_PATH="coverage/s14$db_operater.coverage" NAME="db_operater Coverage Results" MODIFIED="1471532861037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework5/atm_mall/general_module" />
+    <SUITE FILE_PATH="coverage/s14$RPC_Minion.coverage" NAME="RPC_Minion Coverage Results" MODIFIED="1477017280022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11/task/RabbitMQ_RPC" />
     <SUITE FILE_PATH="coverage/s14$socket_client__2_.coverage" NAME="socket_client (2) Coverage Results" MODIFIED="1473501257978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08/socket_md5" />
     <SUITE FILE_PATH="coverage/s14$db_conn.coverage" NAME="db_conn Coverage Results" MODIFIED="1471532719300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04/task/ATM_Mall/src" />
+    <SUITE FILE_PATH="coverage/s14$productor.coverage" NAME="productor Coverage Results" MODIFIED="1476263669830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test1/20161012" />
     <SUITE FILE_PATH="coverage/s14$SocketClientNew.coverage" NAME="SocketClientNew Coverage Results" MODIFIED="1473501711582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08" />
+    <SUITE FILE_PATH="coverage/s14$Q.coverage" NAME="进程Q Coverage Results" MODIFIED="1474687724417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10" />
+    <SUITE FILE_PATH="coverage/s14$subscriber.coverage" NAME="subscriber Coverage Results" MODIFIED="1476513386286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11/director" />
     <SUITE FILE_PATH="coverage/s14$threading_1.coverage" NAME="threading_1 Coverage Results" MODIFIED="1474101581681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09" />
+    <SUITE FILE_PATH="coverage/s14$process.coverage" NAME="process Coverage Results" MODIFIED="1476263987264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test1/20161012" />
     <SUITE FILE_PATH="coverage/s14$db_handle.coverage" NAME="db_handle Coverage Results" MODIFIED="1472047170410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05/task/src" />
     <SUITE FILE_PATH="coverage/s14$transaction.coverage" NAME="transaction Coverage Results" MODIFIED="1471878345441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5-atm/atm/core" />
+    <SUITE FILE_PATH="coverage/s14$cmd.coverage" NAME="cmd Coverage Results" MODIFIED="1474523582721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09/task/bin" />
+    <SUITE FILE_PATH="coverage/s14$redis_conn.coverage" NAME="redis_conn Coverage Results" MODIFIED="1476523076437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11/redis" />
     <SUITE FILE_PATH="coverage/s14$database.coverage" NAME="database Coverage Results" MODIFIED="1472376220257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06/task/db" />
     <SUITE FILE_PATH="coverage/s14$settings.coverage" NAME="settings Coverage Results" MODIFIED="1472379250099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06/task/conf" />
+    <SUITE FILE_PATH="coverage/s14$cmd__1_.coverage" NAME="cmd (1) Coverage Results" MODIFIED="1474604222863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09/task/src" />
     <SUITE FILE_PATH="coverage/s14$sed.coverage" NAME="sed Coverage Results" MODIFIED="1470930502257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03/work01" />
     <SUITE FILE_PATH="coverage/s14$shopping_mall.coverage" NAME="shopping_mall Coverage Results" MODIFIED="1471349288549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02/homework" />
-    <SUITE FILE_PATH="coverage/s14$.coverage" NAME="红绿灯 Coverage Results" MODIFIED="1474110119480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09" />
+    <SUITE FILE_PATH="coverage/s14$receive.coverage" NAME="receive Coverage Results" MODIFIED="1476504186545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11/pika" />
+    <SUITE FILE_PATH="coverage/s14$timer.coverage" NAME="timer Coverage Results" MODIFIED="1476262502787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test1/20161012" />
+    <SUITE FILE_PATH="coverage/s14$.coverage" NAME="多对多 Coverage Results" MODIFIED="1477579695349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12/ORM" />
+    <SUITE FILE_PATH="coverage/s14$ProcessPool.coverage" NAME="ProcessPool Coverage Results" MODIFIED="1474691918507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10" />
     <SUITE FILE_PATH="coverage/s14$test.coverage" NAME="test Coverage Results" MODIFIED="1471318841062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04/test" />
     <SUITE FILE_PATH="coverage/s14$socket_server__2_.coverage" NAME="socket_server (2) Coverage Results" MODIFIED="1473497383365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08/socket_md5" />
     <SUITE FILE_PATH="coverage/s14$paramiko_ssh.coverage" NAME="paramiko_ssh Coverage Results" MODIFIED="1474080648986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09" />
     <SUITE FILE_PATH="coverage/s14$socket_client__1_.coverage" NAME="socket_client (1) Coverage Results" MODIFIED="1473501412229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08" />
-    <SUITE FILE_PATH="coverage/s14$manage.coverage" NAME="manage Coverage Results" MODIFIED="1472739372032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06/task/src" />
+    <SUITE FILE_PATH="coverage/s14$manage.coverage" NAME="manage Coverage Results" MODIFIED="1474689453554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10" />
+    <SUITE FILE_PATH="coverage/s14$Server.coverage" NAME="Server Coverage Results" MODIFIED="1476517457683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11/RPC" />
+    <SUITE FILE_PATH="coverage/s14$sqlalchemy_mod.coverage" NAME="sqlalchemy_mod Coverage Results" MODIFIED="1477127525744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12" />
     <SUITE FILE_PATH="coverage/s14$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1471167193164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04/test" />
     <SUITE FILE_PATH="coverage/s14$xml_test.coverage" NAME="xml_test Coverage Results" MODIFIED="1471690063125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05" />
     <SUITE FILE_PATH="coverage/s14$_school.coverage" NAME="继承-school Coverage Results" MODIFIED="1472566660412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06" />
+    <SUITE FILE_PATH="coverage/s14$RPC_client.coverage" NAME="RPC_client Coverage Results" MODIFIED="1477016526696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11/task" />
+    <SUITE FILE_PATH="coverage/s14$multi_level.coverage" NAME="multi_level Coverage Results" MODIFIED="1474262957025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01" />
+    <SUITE FILE_PATH="coverage/s14$Client.coverage" NAME="Client Coverage Results" MODIFIED="1476517483232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11/RPC" />
+    <SUITE FILE_PATH="coverage/s14$basic.coverage" NAME="basic Coverage Results" MODIFIED="1477317046205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12/ORM" />
     <SUITE FILE_PATH="coverage/s14$index_login.coverage" NAME="index_login Coverage Results" MODIFIED="1471532899146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/shaolin" />
+    <SUITE FILE_PATH="coverage/s14$queue.coverage" NAME="queue Coverage Results" MODIFIED="1476262885882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test1/20161012" />
     <SUITE FILE_PATH="coverage/s14$note.coverage" NAME="note Coverage Results" MODIFIED="1472984657107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07/note" />
+    <SUITE FILE_PATH="coverage/s14$_handle.coverage" NAME="多外键关联_handle Coverage Results" MODIFIED="1477560263918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12/ORM" />
+    <SUITE FILE_PATH="coverage/s14$publisher.coverage" NAME="publisher Coverage Results" MODIFIED="1476513380793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11/director" />
+    <SUITE FILE_PATH="coverage/s14$test00.coverage" NAME="test00 Coverage Results" MODIFIED="1478076681982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test1" />
+    <SUITE FILE_PATH="coverage/s14$insert1.coverage" NAME="insert1 Coverage Results" MODIFIED="1477493021048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12/ORM" />
     <SUITE FILE_PATH="coverage/s14$edit_ha.coverage" NAME="edit_ha Coverage Results" MODIFIED="1470930504520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03/work01" />
-    <SUITE FILE_PATH="coverage/s14$socket_client.coverage" NAME="socket_client Coverage Results" MODIFIED="1473815376894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08/ftp_md5" />
+    <SUITE FILE_PATH="coverage/s14$socket_client.coverage" NAME="socket_client Coverage Results" MODIFIED="1474714968909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10" />
+    <SUITE FILE_PATH="coverage/s14$pymysql_mod.coverage" NAME="pymysql_mod Coverage Results" MODIFIED="1477274560443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12" />
     <SUITE FILE_PATH="coverage/s14$rds.coverage" NAME="rds Coverage Results" MODIFIED="1473321253072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test1" />
     <SUITE FILE_PATH="coverage/s14$main.coverage" NAME="main Coverage Results" MODIFIED="1472742926839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06/task/src" />
+    <SUITE FILE_PATH="coverage/s14$fanout_consumer.coverage" NAME="fanout_consumer Coverage Results" MODIFIED="1476509076107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11/fanout" />
     <SUITE FILE_PATH="coverage/s14$atm_index__1_.coverage" NAME="atm_index (1) Coverage Results" MODIFIED="1472261973585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04/task/ATM_Mall/bin" />
     <SUITE FILE_PATH="coverage/s14$role.coverage" NAME="role Coverage Results" MODIFIED="1472659084929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06/task/src" />
-    <SUITE FILE_PATH="coverage/s14$index.coverage" NAME="index Coverage Results" MODIFIED="1472969637496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07/反射练习" />
+    <SUITE FILE_PATH="coverage/s14$ftp_server__1_.coverage" NAME="ftp_server (1) Coverage Results" MODIFIED="1476416873847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10/task/ftp_server/bin" />
+    <SUITE FILE_PATH="coverage/s14$index.coverage" NAME="index Coverage Results" MODIFIED="1474604056875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09/task/bin" />
     <SUITE FILE_PATH="coverage/s14$socket_server__1_.coverage" NAME="socket_server (1) Coverage Results" MODIFIED="1473491231035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08" />
     <SUITE FILE_PATH="coverage/s14$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1472741608637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06/task/bin" />
     <SUITE FILE_PATH="coverage/s14$paramiko_key.coverage" NAME="paramiko_key Coverage Results" MODIFIED="1474088825035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09" />
+    <SUITE FILE_PATH="coverage/s14$orm_b1.coverage" NAME="orm_b1 Coverage Results" MODIFIED="1477563578626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12/ORM" />
     <SUITE FILE_PATH="coverage/s14$atm_index.coverage" NAME="atm_index Coverage Results" MODIFIED="1472089773823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05/task/bin" />
+    <SUITE FILE_PATH="coverage/s14$app.coverage" NAME="app Coverage Results" MODIFIED="1478329383391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14/html" />
+    <SUITE FILE_PATH="coverage/s14$thread_mod.coverage" NAME="thread_mod Coverage Results" MODIFIED="1476257471570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test1/20161012" />
+    <SUITE FILE_PATH="coverage/s14$ORM_basic.coverage" NAME="ORM_basic Coverage Results" MODIFIED="1477129879185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12" />
     <SUITE FILE_PATH="coverage/s14$setting.coverage" NAME="setting Coverage Results" MODIFIED="1471532812316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework5/atm_mall/conf" />
-    <SUITE FILE_PATH="coverage/s14$socket_server.coverage" NAME="socket_server Coverage Results" MODIFIED="1473815372775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08/ftp_md5" />
+    <SUITE FILE_PATH="coverage/s14$123.coverage" NAME="123 Coverage Results" MODIFIED="1476416152328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08/task/ftp_client" />
+    <SUITE FILE_PATH="coverage/s14$socket_server.coverage" NAME="socket_server Coverage Results" MODIFIED="1474714960006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10" />
     <SUITE FILE_PATH="coverage/s14$deal.coverage" NAME="deal Coverage Results" MODIFIED="1472052981782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05/task/src" />
-    <SUITE FILE_PATH="coverage/s14$ftp_client.coverage" NAME="ftp_client Coverage Results" MODIFIED="1473950696793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08/task/ftp_client/src" />
+    <SUITE FILE_PATH="coverage/s14$ftp_client.coverage" NAME="ftp_client Coverage Results" MODIFIED="1476416877795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10/task/ftp_client" />
     <SUITE FILE_PATH="coverage/s14$blog.coverage" NAME="blog Coverage Results" MODIFIED="1472369118588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06" />
     <SUITE FILE_PATH="coverage/s14$paramiko_sftp.coverage" NAME="paramiko_sftp Coverage Results" MODIFIED="1474079942726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09" />
     <SUITE FILE_PATH="coverage/s14$shopping.coverage" NAME="shopping Coverage Results" MODIFIED="1471352841704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04/task/ATM_Mall/bin" />
     <SUITE FILE_PATH="coverage/s14$atm__1_.coverage" NAME="atm (1) Coverage Results" MODIFIED="1472092702497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05/task/src" />
-    <SUITE FILE_PATH="coverage/s14$ftp_server.coverage" NAME="ftp_server Coverage Results" MODIFIED="1473950653663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08/task/ftp_server/src" />
+    <SUITE FILE_PATH="coverage/s14$ftp_server.coverage" NAME="ftp_server Coverage Results" MODIFIED="1476416128124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10/task/ftp_server/src" />
     <SUITE FILE_PATH="coverage/s14$mall_login.coverage" NAME="mall_login Coverage Results" MODIFIED="1471351952922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework5/atm_mall/mall" />
+    <SUITE FILE_PATH="coverage/s14$ftp_client__1_.coverage" NAME="ftp_client (1) Coverage Results" MODIFIED="1476415875485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08/task/ftp_client" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -106,32 +219,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="paramiko_key.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/09/paramiko_key.py">
+      <file leaf-file-name="s1.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/14/review/s1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="paramiko_sftp.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/09/paramiko_sftp.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3609672">
-              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="paramiko_ssh.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/09/paramiko_ssh.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding />
+            <state vertical-scroll-proportion="0.5037879">
+              <caret line="17" column="16" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="7" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -142,6 +237,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -162,57 +258,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/05/task/src/db_handle.py" />
-        <option value="$PROJECT_DIR$/04/task/ATM_Mall/src/atm_login.py" />
-        <option value="$PROJECT_DIR$/04/task/ATM_Mall/src/atm.py" />
-        <option value="$PROJECT_DIR$/04/task/ATM_Mall/conf/settings.py" />
-        <option value="$PROJECT_DIR$/04/task/ATM_Mall/bin/atm_index.py" />
-        <option value="$PROJECT_DIR$/04/task/ATM_Mall/src/manage.py" />
-        <option value="$PROJECT_DIR$/06/note.py" />
-        <option value="$PROJECT_DIR$/06/继承.py" />
-        <option value="$PROJECT_DIR$/06/继承-school.py" />
-        <option value="$PROJECT_DIR$/06/blog.py" />
-        <option value="$PROJECT_DIR$/06/task/src/sava_data.py" />
-        <option value="$PROJECT_DIR$/06/task/src/db_handle.py" />
-        <option value="$PROJECT_DIR$/06/task/conf/settings.py" />
-        <option value="$PROJECT_DIR$/06/task/src/role.py" />
-        <option value="$PROJECT_DIR$/06/task/bin/main.py" />
-        <option value="$PROJECT_DIR$/06/task/db/database.py" />
-        <option value="$PROJECT_DIR$/06/task/README.md" />
-        <option value="$PROJECT_DIR$/06/task/src/db_save.py" />
-        <option value="$PROJECT_DIR$/06/task/src/manage.py" />
-        <option value="$PROJECT_DIR$/06/task/src/main.py" />
-        <option value="$PROJECT_DIR$/07/note.py" />
-        <option value="$PROJECT_DIR$/07/note/异常处理.py" />
-        <option value="$PROJECT_DIR$/07/反射练习/comments.py" />
-        <option value="$PROJECT_DIR$/07/反射练习/index.py" />
-        <option value="$PROJECT_DIR$/07/note/反射.py" />
-        <option value="$PROJECT_DIR$/07/note/note.py" />
-        <option value="$PROJECT_DIR$/test1/rds.py" />
-        <option value="$PROJECT_DIR$/07/socket/socket_server.py" />
-        <option value="$PROJECT_DIR$/07/socket/socket_client.py" />
-        <option value="$PROJECT_DIR$/08/note.py" />
-        <option value="$PROJECT_DIR$/08/socket_md5/socket_server.py" />
-        <option value="$PROJECT_DIR$/08/socket_md5/socket_client.py" />
-        <option value="$PROJECT_DIR$/08/SocketClientNew.py" />
-        <option value="$PROJECT_DIR$/08/SocketServerNew.py" />
-        <option value="$PROJECT_DIR$/08/lib/aa.py" />
-        <option value="$PROJECT_DIR$/08/动态导入模块.py" />
-        <option value="$PROJECT_DIR$/08/socket_server.py" />
-        <option value="$PROJECT_DIR$/08/socket_client.py" />
-        <option value="$PROJECT_DIR$/03/work01/edit_ha.py" />
-        <option value="$PROJECT_DIR$/08/ftp_md5/socket_client.py" />
-        <option value="$PROJECT_DIR$/08/ftp_md5/socket_server.py" />
-        <option value="$PROJECT_DIR$/08/task/ftp_server/src/ftp_server.py" />
-        <option value="$PROJECT_DIR$/08/task/ftp_client/src/ftp_client.py" />
-        <option value="$PROJECT_DIR$/08/task/README.md" />
-        <option value="$PROJECT_DIR$/09/note.py" />
-        <option value="$PROJECT_DIR$/09/paramiko_sftp.py" />
-        <option value="$PROJECT_DIR$/09/paramiko_ssh.py" />
-        <option value="$PROJECT_DIR$/09/paramiko_key.py" />
-        <option value="$PROJECT_DIR$/09/threading_1.py" />
-        <option value="$PROJECT_DIR$/09/红绿灯.py" />
-        <option value="$PROJECT_DIR$/09/信号量.py" />
+        <option value="$PROJECT_DIR$/10/task/ftp_client/ftp_client.py" />
+        <option value="$PROJECT_DIR$/08/task/ftp_client/123.py" />
+        <option value="$PROJECT_DIR$/10/task/ftp_server/bin/ftp_server.py" />
+        <option value="$PROJECT_DIR$/10/task/README.md" />
+        <option value="$PROJECT_DIR$/11/pika/receive.py" />
+        <option value="$PROJECT_DIR$/11/pika/send.py" />
+        <option value="$PROJECT_DIR$/11/fanout/fanout_consumer.py" />
+        <option value="$PROJECT_DIR$/11/fanout/fanout_producer.py" />
+        <option value="$PROJECT_DIR$/11/director/publisher.py" />
+        <option value="$PROJECT_DIR$/11/director/subscriber.py" />
+        <option value="$PROJECT_DIR$/11/topic/publisher.py" />
+        <option value="$PROJECT_DIR$/11/topic/consumer.py" />
+        <option value="$PROJECT_DIR$/11/RPC/Server.py" />
+        <option value="$PROJECT_DIR$/11/RPC/Client.py" />
+        <option value="$PROJECT_DIR$/11/redis/redis_conn.py" />
+        <option value="$PROJECT_DIR$/11/task/RPC_server.py" />
+        <option value="$PROJECT_DIR$/11/task/RPC_client.py" />
+        <option value="$PROJECT_DIR$/11/task/RabbitMQ_RPC/RPC_Master.py" />
+        <option value="$PROJECT_DIR$/11/task/RabbitMQ_RPC/RPC_Minion.py" />
+        <option value="$PROJECT_DIR$/11/task/README.md" />
+        <option value="$PROJECT_DIR$/12/sqlalchemy_mod.py" />
+        <option value="$PROJECT_DIR$/12/ORM_basic.py" />
+        <option value="$PROJECT_DIR$/12/ORM_basic2.py" />
+        <option value="$PROJECT_DIR$/12/pymysql_mod.py" />
+        <option value="$PROJECT_DIR$/12/ORM/basic.py" />
+        <option value="$PROJECT_DIR$/12/ORM/insert1.py" />
+        <option value="$PROJECT_DIR$/12/ORM/外键关联.py" />
+        <option value="$PROJECT_DIR$/12/ORM/多外键关联.py" />
+        <option value="$PROJECT_DIR$/12/ORM/多外键关联_handle.py" />
+        <option value="$PROJECT_DIR$/12/ORM/orm_b1.py" />
+        <option value="$PROJECT_DIR$/12/ORM/orm_api.py" />
+        <option value="$PROJECT_DIR$/12/ORM/多对多.py" />
+        <option value="$PROJECT_DIR$/12/homework/core/db_details.py" />
+        <option value="$PROJECT_DIR$/13/note.py" />
+        <option value="$PROJECT_DIR$/13/demos/demo.py" />
+        <option value="$PROJECT_DIR$/13/demos/interactive.py" />
+        <option value="$PROJECT_DIR$/13/bastion_hosts/modules/modules.py" />
+        <option value="$PROJECT_DIR$/13/bastion_hosts/conf/settings.py" />
+        <option value="$PROJECT_DIR$/13/test.yaml" />
+        <option value="$PROJECT_DIR$/test1/test00.py" />
+        <option value="$PROJECT_DIR$/13/bastion_hosts/modules/db_modules.py" />
+        <option value="$PROJECT_DIR$/14/html/index.html" />
+        <option value="$PROJECT_DIR$/14/html/app.py" />
+        <option value="$PROJECT_DIR$/14/html/s4.html" />
+        <option value="$PROJECT_DIR$/14/html/s5.py" />
+        <option value="$PROJECT_DIR$/14/html/锚.html" />
+        <option value="$PROJECT_DIR$/14/html/s5.html" />
+        <option value="$PROJECT_DIR$/14/html/表格.html" />
+        <option value="$PROJECT_DIR$/14/html/表格2.html" />
+        <option value="$PROJECT_DIR$/14/html/css1.html" />
+        <option value="$PROJECT_DIR$/14/review/s1.html" />
       </list>
     </option>
   </component>
@@ -222,7 +318,7 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-15" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
     <option name="height" value="744" />
@@ -238,7 +334,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
       <flattenPackages />
       <showMembers ProjectPane="true" />
       <showModules />
@@ -252,17 +348,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -403,115 +488,209 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="External Dependencies">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="C:">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Users">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="huyuedong">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT=".PyCharm50">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="system">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="python_stubs">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="-1313743207">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="py">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="py">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="14">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="py">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="14">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="review">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/09/task/bin" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="ChangesBrowser.SHOW_FLATTEN" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\huyuedong\py\14\review" />
+      <recent name="C:\Users\huyuedong\py\13" />
+      <recent name="C:\Users\huyuedong\py\10" />
       <recent name="C:\Users\huyuedong\py\08\socket_md5" />
       <recent name="C:\Users\huyuedong\py\04\task\ATM_Mall\db\admin" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\huyuedong\py\09\task\bin" />
       <recent name="C:\Users\huyuedong\py\08\task\ftp_client" />
       <recent name="C:\Users\huyuedong\py\07\note" />
       <recent name="C:\Users\huyuedong\py\05\task\db\1001" />
       <recent name="C:\Users\huyuedong\py\05\task\db" />
-      <recent name="C:\Users\huyuedong\py\04\task\ATM_Mall\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.红绿灯">
-    <configuration default="false" name="paramiko_ssh" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.app">
+    <configuration default="false" name="orm_api" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12/ORM" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="s14" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09/paramiko_ssh.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12/ORM/orm_api.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="paramiko_key" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="多对多" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12/ORM" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="s14" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09/paramiko_key.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12/ORM/多对多.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="threading_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="db_modules" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13/bastion_hosts/modules" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="s14" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09/threading_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13/bastion_hosts/modules/db_modules.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="信号量" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="test00" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="s14" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09/信号量.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test1/test00.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="红绿灯" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/14/html" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="s14" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09/红绿灯.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14/html/app.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -710,19 +889,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.paramiko_ssh" />
-      <item index="1" class="java.lang.String" itemvalue="Python.paramiko_key" />
-      <item index="2" class="java.lang.String" itemvalue="Python.threading_1" />
-      <item index="3" class="java.lang.String" itemvalue="Python.信号量" />
-      <item index="4" class="java.lang.String" itemvalue="Python.红绿灯" />
+      <item index="0" class="java.lang.String" itemvalue="Python.orm_api" />
+      <item index="1" class="java.lang.String" itemvalue="Python.多对多" />
+      <item index="2" class="java.lang.String" itemvalue="Python.db_modules" />
+      <item index="3" class="java.lang.String" itemvalue="Python.test00" />
+      <item index="4" class="java.lang.String" itemvalue="Python.app" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.红绿灯" />
-        <item index="1" class="java.lang.String" itemvalue="Python.信号量" />
-        <item index="2" class="java.lang.String" itemvalue="Python.threading_1" />
-        <item index="3" class="java.lang.String" itemvalue="Python.paramiko_key" />
-        <item index="4" class="java.lang.String" itemvalue="Python.paramiko_ssh" />
+        <item index="0" class="java.lang.String" itemvalue="Python.app" />
+        <item index="1" class="java.lang.String" itemvalue="Python.test00" />
+        <item index="2" class="java.lang.String" itemvalue="Python.db_modules" />
+        <item index="3" class="java.lang.String" itemvalue="Python.多对多" />
+        <item index="4" class="java.lang.String" itemvalue="Python.orm_api" />
       </list>
     </recent_temporary>
   </component>
@@ -779,32 +958,39 @@
       <option name="project" value="LOCAL" />
       <updated>1473833812210</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="huyuedong">
+      <created>1474251242917</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1474251242917</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-15" y="-8" width="1382" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18594436" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14372164" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6769231" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35526314" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22866894" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39967105" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39954597" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="UnknownFeatures">
@@ -834,6 +1020,9 @@
           <option name="timeStamp" value="188" />
         </line-breakpoint>
       </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
@@ -841,288 +1030,142 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="203" />
+      <option name="time" value="204" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/04/task/ATM_Mall/conf/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29533678">
-          <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04/task/ATM_Mall/src/manage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0328152">
-          <caret line="41" column="36" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04/task/ATM_Mall/src/atm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="3.5768566">
-          <caret line="112" column="14" selection-start-line="112" selection-start-column="14" selection-end-line="112" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04/task/ATM_Mall/bin/atm_index.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37651122">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06/blog.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.554622">
-          <caret line="64" column="22" selection-start-line="64" selection-start-column="22" selection-end-line="64" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06/继承.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5588235">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06/note.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6785714">
-          <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05/task/conf/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21243523">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05/task/src/db_handle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.49222797">
-          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04/task/ATM_Mall/src/db_conn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39378238">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06/继承-school.py">
+    <entry file="file://$PROJECT_DIR$/11/pika/receive.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06/task/src/db_save.py">
+    <entry file="file://$PROJECT_DIR$/11/pika/send.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.098445594">
-          <caret line="3" column="8" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06/task/src/main.py">
+    <entry file="file://$PROJECT_DIR$/11/fanout/fanout_consumer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1312608">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.55785835">
+          <caret line="17" column="52" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06/task/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.36328873">
-            <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06/task/conf/settings.py">
+    <entry file="file://$PROJECT_DIR$/11/fanout/fanout_producer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.328152">
-          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.55785835">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06/task/src/manage.py">
+    <entry file="file://$PROJECT_DIR$/11/director/subscriber.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.1485319">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.58093524">
+          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06/task/db/20160901_151511">
+    <entry file="file://$PROJECT_DIR$/11/director/publisher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13669065">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11/topic/consumer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.794964">
+          <caret line="34" column="25" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11/topic/publisher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6151079">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11/RPC/Client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17220543">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11/RPC/Server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28700906">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11/redis/redis_conn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2626728">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11/task/RPC_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30299538">
+          <caret line="45" column="26" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10/task/ftp_client/ftp_client.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06/task/src/role.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.49050087">
-          <caret line="59" column="40" selection-start-line="59" selection-start-column="40" selection-end-line="59" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07/note/异常处理.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7368421">
-          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07/note/反射.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44214162">
-          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07/note/note.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5734024">
-          <caret line="118" column="33" selection-start-line="118" selection-start-column="33" selection-end-line="118" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07/反射练习/index.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45941278">
-          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07/反射练习/comments.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.164076">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="14" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test1/rds.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.475">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/07/socket/socket_server.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42326733">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07/socket/socket_client.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.65841585">
-          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08/note.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.098445594">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08/SocketServerNew.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45941278">
-          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08/SocketClientNew.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0656304">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08/动态导入模块.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48579547">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08/lib/aa.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16193181">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="5" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03/work01/edit_ha.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.656304">
-          <caret line="47" column="28" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08/ftp_md5/socket_client.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22970639">
-          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08/socket_client.py">
-      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08/socket_server.py">
+    <entry file="file://$PROJECT_DIR$/09/task/src/cmd.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8031088">
-          <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.5539906">
+          <caret line="35" column="15" selection-start-line="35" selection-start-column="15" selection-end-line="35" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Python35/Lib/json/decoder.py">
+    <entry file="file://C:/Python35/Lib/site-packages/pika/adapters/blocking_connection.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0722433">
-          <caret line="356" column="0" selection-start-line="356" selection-start-column="0" selection-end-line="356" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.33212996">
+          <caret line="2328" column="0" selection-start-line="2328" selection-start-column="0" selection-end-line="2328" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Python35/Lib/socketserver.py">
+    <entry file="file://$PROJECT_DIR$/11/task/RPC_client.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33079848">
-          <caret line="356" column="0" selection-start-line="356" selection-start-column="0" selection-end-line="356" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.66549295">
+          <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08/task/ftp_client/ftp_client.py">
+    <entry file="file://$PROJECT_DIR$/11/task/RabbitMQ_RPC/RPC_Master.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.4939551">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.2733813">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08/task/README.md">
+    <entry file="file://$PROJECT_DIR$/11/task/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.47227535">
-            <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <first_editor vertical-scroll-proportion="0.418">
+            <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
           </first_editor>
           <second_editor />
         </state>
@@ -1131,99 +1174,232 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://C:/Python35/Lib/site-packages/paramiko/client.py">
+    <entry file="file://$PROJECT_DIR$/12/pymysql_mod.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3309859">
-          <caret line="653" column="0" selection-start-line="653" selection-start-column="0" selection-end-line="653" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/09/id_rsa">
+    <entry file="file://$PROJECT_DIR$/12/ORM_basic.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.6532951">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/09/note.py">
+    <entry file="file://$PROJECT_DIR$/12/ORM/insert1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19689119">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.73333335">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/09/红绿灯.py">
+    <entry file="file://$PROJECT_DIR$/12/ORM/create1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
-          <folding>
-            <element signature="e#42#58#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/09/信号量.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39378238">
-          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/09/threading_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.2141623">
-          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/09/paramiko_key.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/09/paramiko_ssh.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08/ftp_md5/socket_server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0328152">
-          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-          <folding />
+        <state vertical-scroll-proportion="0.46666667">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/08/task/ftp_server/src/ftp_server.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19689119">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12/ORM_basic2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12/ORM/orm_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5965463">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12/ORM/orm_b1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.3422292">
+          <caret line="45" column="16" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12/ORM/外键关联.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.61219794">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python35/Lib/site-packages/paramiko/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13/demos/interactive.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17055656">
+          <caret line="76" column="23" selection-start-line="76" selection-start-column="23" selection-end-line="76" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13/note.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06822262">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13/demos/demo.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13/demos/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5798923">
+          <caret line="44" column="4" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12/homework/core/db_details.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06/task/conf/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17055656">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13/test.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06834532">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12/ORM/多对多.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="42" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13/bastion_hosts/conf/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/test00.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17511521">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13/bastion_hosts/modules/db_modules.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5852783">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14/html/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14/html/s4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5772152">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14/html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.96202534">
+          <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14/note">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/pycharm.jar!/resources/html5-schema/html5/web-forms2.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3327338">
+          <caret line="465" column="22" selection-start-line="465" selection-start-column="22" selection-end-line="465" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06/task/src/db_handle.py">
+    <entry file="file://$PROJECT_DIR$/14/html/s5.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29533678">
-          <caret line="9" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.24431819">
+          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14/html/锚.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3598485">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14/html/表格.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.821428">
+          <caret line="34" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14/html/表格2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0359849">
+          <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14/html/css1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39583334">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/09/paramiko_sftp.py">
+    <entry file="file://$PROJECT_DIR$/14/review/s1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3609672">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-          <folding />
+        <state vertical-scroll-proportion="0.5037879">
+          <caret line="17" column="16" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
