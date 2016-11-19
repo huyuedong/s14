@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>background-position</title>
+    <style>
+        .bg-icon{
+            /*定义一个图片*/
+            background-image: url(icon1.png);
+            /*设置图片不平铺*/
+            background-repeat: no-repeat;
+            height: 18px;
+            width: 18px;
+            /*设置一个边框用来演示这个例子的窗口*/
+            border: 2px solid red;
+            /*根据图片xy轴定位来调整窗口显示小图的位置*/
+            background-position-x: 0;
+            background-position-y: -80px;
+        }
+    </style>
+</head>
+<body>
+    <div class="bg-icon"></div>
+</body>
+</html>

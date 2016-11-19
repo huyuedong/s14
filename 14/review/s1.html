@@ -11,17 +11,51 @@
 
 </head>
 <body>
-    <p>我爱你<br>北京</p>
-    <h1>标题一</h1>
-    <h2>标题二</h2>
-    <h3>标题三</h3>
-    <h4>标题四</h4>
-    <h5>标题五</h5>
-    <h6>标题六</h6>
+    <!--<p>我爱你<br>北京</p>-->
+    <!--<h1>标题一</h1>-->
+    <!--<h2>标题二</h2>-->
+    <!--<h3>标题三</h3>-->
+    <!--<h4>标题四</h4>-->
+    <!--<h5>标题五</h5>-->
+    <!--<h6>标题六</h6>-->
+    <!--<div id="i1" style="position:fixed;bottom:0 ;right: 0;">1</div>-->
+    <!--<div>2</div>-->
+    <!--<div>3</div>-->
+    <!--<a href="http://www.jd.com">京东商城</a><br>-->
+    <!--<span>span.....</span>-->
+    <select size="5" multiple="multiple">
+        <optgroup label="中国">
+            <option value="1">北京</option>
+            <option value="2">上海</option>
+            <option value="3" selected="selected">临沂</option>
+            <option value="4">香港</option>
+        </optgroup>
+        <optgroup label="美国">
+            <option value="1">洛杉矶</option>
+            <option value="2">克利夫兰</option>
+            <option value="3" selected="selected">纽约</option>
+            <option value="4">旧金山</option>
+        </optgroup>
+    </select>
+    <p>请选择性别：</p>
+    男：<input type="radio" name="gender" value="1" />
+    女：<input type="radio" name="gender" value="2" />
 
-    <div id="i1" style="position:fixed;bottom:0 ;right: 0;">1</div>
-    <div>2</div>
-    <div>3</div>
-    <!--<a href="http://www.jd.com">京东商城</a>-->
+    <form action="http://www.baidu.com/" method="POST">
+        <input type="text" name="user" /><br>
+        <input type="password" name="pwd" /><br>
+        <input type="button" value="登录1"><br>
+        <input type="submit" value="登录2">
+    </form>
+    <a href="#a2">
+        目录2
+    </a>
+    <div id="a1" style="height: 800px">
+        目录一
+    </div>
+    <div id="a2" style="height: 800px">
+        目录二
+    </div>
+
 </body>
 </html>

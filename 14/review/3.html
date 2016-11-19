@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<!--<select>-->
+    <!--<option value="1">北京</option>-->
+    <!--<option value="2">上海</option>-->
+    <!--<option value="3" selected="selected">深圳</option>-->
+    <!--&lt;!&ndash;selected="selected"表示默认选择深圳&ndash;&gt;-->
+<!--</select>-->
+<!--<select multiple="multiple" size="3">-->
+    <!--<option>香港</option>-->
+    <!--<option>北京</option>-->
+    <!--<option>上海</option>-->
+    <!--<option>深圳</option>-->
+<!--</select>-->
+<select>
+    <optgroup label="中国">
+        <option>北京</option>
+        <option>上海</option>
+    </optgroup>
+    <optgroup label="美国">
+        <option>纽约</option>
+        <option>洛杉矶</option>
+    </optgroup>
+</select>
+<p>请选择性别：</p>
+男：<input type="radio" name="gender" value="1" />
+女：<input type="radio" name="gender" value="2" />
+妖：<input type="radio" name="gender" value="3" />
+
+<p>请选择体育爱好：</p>
+篮球：<input type="checkbox" name="favor" value="1">
+足球：<input type="checkbox" name="favor" value="1">
+乒乓球：<input type="checkbox" name="favor" value="1" checked="checked">
+羽毛球：<input type="checkbox" name="favor" value="1" checked="checked"><br><br>
+
+<!--标准的输入框-->
+用户名：<input type="text"/><br>
+<!--密码的输入框（输入的内容是保密的）-->
+密码：<input type="password"/>
+
+<p>上传文件</p>
+<input type="file" name="fname"/>
+</body>
+</html>

@@ -5,12 +5,15 @@
     <title>登录页面</title>
 </head>
 <body>
-    <form action="http://localhost:8888/index" method="get">
-        <input type="text" name="user" />
-        <input type="text" name="email" />
-        <input type="password" name="pwd" />
-        <input type="button" value="button1" />
-        <input type="submit" value="提交"/>
-    </form>
+<form action="http://localhost:8888/index" method="get">
+    <!--这里action是告诉html提交到那里-->
+    <!--method是通过什么方法去action指定的地址-->
+    <!--表单会把所有获取输入的数据存成一个json提交到后台-->
+    <input type="text" name="user" />
+    <input type="text" name="email" />
+    <input type="password" name="pwd" />
+    <input type="button" value="button1" />
+    <input type="submit" value="提交"/>
+</form>
 </body>
 </html>

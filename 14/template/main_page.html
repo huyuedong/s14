@@ -1,0 +1,736 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>首页！</title>
+    <link rel="stylesheet" type="text/css" href="../static/css/common.css"/>
+    <style>
+        /*定义body外边距为0*/
+        body {
+            margin: 0;
+        }
+        /*定义页眉区块*/
+        .header {
+            width: 100%;
+            height: 30px;
+            line-height: 30px;
+            background-color: #F1F1F1;
+            margin: 0;
+        }
+        /*定义页面最上层区块*/
+        .hw {
+            width: 1210px;
+            margin: 0 auto;
+        }
+        /*收藏本站*/
+        .hl {
+            float: left;
+            padding-left: 30px;
+        }
+        /*页面最上层区块右侧菜单*/
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            float: right;
+        }
+        /*列表样式*/
+        li {
+            display: inline;
+            float: left;
+            padding-left: 15px;
+        }
+        /*最上第二区块样式*/
+        .window {
+            width: 1210px;
+            height: 100px;
+            margin: 0 auto;
+        }
+        /*gif图片*/
+        .wl {
+            float: left;
+            width: 350px;
+        }
+        /*网站logo*/
+        .wl-logo {
+            float: left;
+            padding-top: 20px;
+        }
+        /*活动图片*/
+        .wl-gif {
+            float: right;
+        }
+        /*链接样式*/
+        .wl a {
+            display: block;
+        }
+        /*搜索框样式*/
+        .search {
+            float: left;
+            width: auto;
+            margin-top: 20px;
+        }
+        /*我的购物车区块*/
+        .wr {
+            float: right;
+            margin: 40px 50px 0;
+            border: 1px solid #F1F1F1;
+            padding: 0 20px;
+            width: 100px;
+            height: 34px;
+        }
+        /*我的购物车区块元素*/
+        .wr-i {
+            float: left;
+            line-height: 34px;
+            padding-right: 5px;
+        }
+        /*购物车数量字体颜色*/
+        .wr-i a {
+            color: #000000;
+        }
+        /*搜索栏*/
+        .form {
+            width: 360px;
+            height: 34px;
+            border: 1px solid #CCC;
+            float: left;
+            margin: 20px 0 20px 100px;
+        }
+        /*搜索的输入框*/
+        .form input {
+           float: left;
+        }
+        /*搜索按钮*/
+        .form button {
+            float: right;
+            line-height: 34px;
+            padding: 0 15px;
+            background-color: #8AC007;
+            color: white;
+            border: none;
+        }
+        /*菜单栏*/
+        .menu {
+            margin: 0;
+            height: 44px;
+            background-color: #8AC007;
+        }
+        /*菜单栏长度*/
+        .mb {
+            width: 1210px;
+            margin: 0 auto;
+        }
+        /*全部商品分类*/
+        .mbl {
+            float: left;
+            width: 210px;
+            height: 44px;
+            background-color: #7AB700;
+        }
+        /*中间菜单*/
+        .mbm {
+            float: left;
+            margin: 10px auto;
+        }
+        /*中间菜单列表样式*/
+        .mbm li {
+            width: 80px;
+            text-align: center;
+        }
+        /*中间菜单列的字体样式*/
+        .mbm a, .mbr a {
+            color: white;
+            font-weight: bold;
+        }
+        /*右边菜单*/
+        .mbr {
+            float: right;
+            margin: 10px auto;
+        }
+        /*左侧所有分类栏*/
+        .dt {
+            margin: 10px auto;
+            line-height: 24px;
+            text-align: center;
+            color: white;
+            font-weight: bold;
+        }
+        /*左侧详细分类*/
+        .dd {
+            height: 466px;
+            margin-top: 5px;
+            background-color: #FFFFFF;
+        }
+        /*左侧纵向菜单区块*/
+        .item {
+            color: #000000;
+            height: 60px;
+            float: none;
+            padding-bottom: 2px;
+        }
+        /*纵向菜单列表*/
+        .item li {
+            height: 44px;
+            padding: 12px 10px 12px;
+            float: left;
+            width: 90%;
+            list-style: none;
+            border: 1px dotted #F1F1F1;
+            border-right-style: solid;
+            border-left-style: solid;
+        }
+        /*纵向菜单大类别*/
+        .li-title {
+            font-size: 18px;
+            font-weight: bold;
+            padding: 0;
+        }
+        /*纵向菜单大类别下的小类别*/
+        p {
+            display: block;
+            margin: 0;
+        }
+        /*纵向菜单里面的链接*/
+        .item li p a {
+            font-size: 12px;
+            margin: 0;
+        }
+        /*左下热销榜*/
+        .dm {
+            border: 1PX solid #F1F1F1;
+            height: 80px;
+        }
+        /*热销榜标题*/
+        .dm-title {
+            line-height: 24px;
+            font-size: 18px;
+            font-weight: bold;
+            background-color: #F1F1F1;
+            padding: 10px;
+        }
+        /*热销榜内容*/
+        .dm-info {
+            height: 20px;
+            padding: 10px;
+        }
+        /*页面主体区块*/
+        .bb {
+            width: 1210px;
+            margin: 0 auto;
+        }
+        /*页面商品展示区块*/
+        .br {
+            float: right;
+            width: 980px;
+        }
+        /*福特>蒙迪欧>2.0T载体区块*/
+        .brt {
+            height: 60px;
+        }
+        /*福特>蒙迪欧>2.0T区块*/
+        .brtb {
+            padding-top: 30px;
+        }
+        /*商品分类*/
+        .brm {
+            height: 168px;
+            border: 1px solid #F1F1F1;
+            border-top: 2px solid #8AC007;
+            margin-top: 10px;
+        }
+        /*商品分类总条件*/
+        .brm-inner {
+            height: 168px;
+            margin: 0 10px;
+        }
+        /*商品分类条件*/
+        .brmb {
+            height: 42px;
+            border-top: 1px dotted #CCCCCC;
+        }
+        /*商品分类条件类别*/
+        .brmb-title {
+            font-weight: bold;
+            line-height: 42px;
+            width: 85px;
+            text-align: right;
+            float: left;
+        }
+        /*商品分类条件结果*/
+        .brmb-menu {
+            border-top: 1px dotted #F1F1F1;
+            line-height: 42px;
+            width: 85px;
+            text-align: right;
+            float: left;
+        }
+        /*商品排序*/
+        .brs {
+            height: 32px;
+            border: 1px solid #F1F1F1;
+            margin-top: 10px;
+        }
+        /*排序的标题*/
+        .brs-title {
+            float: left;
+            width: 45px;
+            line-height: 32px;
+            padding-left: 10px;
+        }
+        /*排序的分类*/
+        .brs-menu {
+            float: left;
+            line-height: 32px;
+        }
+        /*排序的触发*/
+        .brs-menu a {
+            margin-left: 50px;
+        }
+        /*商品总数量的显示区块*/
+        .brs-r {
+            float: right;
+            line-height: 32px;
+            border-right: 1px solid #F1F1F1;
+            padding-right: 5px;
+        }
+        /*商品排序菜单以及商品数量的区块*/
+        .brs-r-left {
+            float: left;
+            width: 850px;
+            height: 32px;
+        }
+        /*页码的区块*/
+        .brs-r-right {
+            float: right;
+            width: 120px;
+            line-height: 32px;
+            padding-right: 5px;
+        }
+        /*页码区块的总页数*/
+        .brs-r-right-i {
+            float: left;
+            line-height: 32px;
+            margin-right: 5px;
+        }
+        /*页码区块翻页箭头的样式*/
+        .brs-r-right-i a {
+            border: 1px solid #F1F1F1;
+            line-height: 25px;
+            padding: 0 5px;
+        }
+        /*展示框架的样式*/
+        .brd {
+            height: 400px;
+            margin-top: 10px;
+        }
+        /*商品信息框架*/
+        .brd-info {
+            height: 260px;
+            width: 230px;
+            border: 1px solid #8AC007;
+            margin-left: 5px;
+            margin-right: 5px;
+            margin-bottom: 10px;
+            float: left;
+        }
+        /*图片信息*/
+        .brd-img {
+            width: 210px;
+            height: 200px;
+            margin-right: 5px;
+            margin-bottom: 5px;
+            margin-left: 5px;
+            background-color: black;
+        }
+        /*商品名称*/
+        .brd-name {
+            height: 18px;
+            line-height: 18px;
+            text-align: center;
+        }
+        /*商品价格*/
+        .brd-price {
+            width: 70px;
+            float: left;
+            margin: 5px 0;
+            line-height: 24px;
+            text-align: center;
+            color: #8AC007;
+            font-weight: bold;
+        }
+        /*商品数量区块*/
+        .brd-amount-form {
+            margin: 5px 0 5px 5px;
+            width: 94px;
+            float: left;
+            line-height: 20px;
+            text-align: center;
+            border: 1px solid #AAAAAA;
+        }
+        /*数量加减*/
+        .brd-amount-o {
+            width: 20px;
+            border: 1px solid #CCCCCC;
+            background-color: #CCCCCC;
+            float: left;
+        }
+        /*数量*/
+        .brd-amount-i {
+            width: 48px;
+            float: left;
+            text-align: left;
+            padding: 0 1px;
+        }
+        /*买*/
+        .brd-amount-r {
+            margin-top: 5px;
+            margin-right: 5px;
+            background-color: #8AC007;
+            width: 40px;
+            float: right;
+            line-height: 24px;
+            text-align: center;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="hw">
+            <div class="hl">
+                <a href="main_page.html">&hearts;收藏本站</a>
+            </div>
+            <ul>
+                <li><a href="main_page.html">登陆</a></li>
+                <li><a href="main_page.html">注册</a></li>
+                <li><a href="main_page.html">我的订单</a></li>
+                <li><a href="main_page.html">我的收藏</a></li>
+                <li><a href="main_page.html">VIP会员俱乐部</a></li>
+                <li><a href="main_page.html">客户服务</a></li>
+                <li><a href="main_page.html">关注</a></li>
+                <li><a href="main_page.html">手机版</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="window">
+        <div class="wl">
+            <div class="wl-logo">
+                <img src="../static/img/logo-1.png">
+            </div>
+            <div class="wl-gif">
+                <a href="main_page.html">
+                    <img src="../static/img/4.gif">
+                </a>
+            </div>
+        </div>
+        <div class="search">
+            <div class="form icon-search">
+                <input type="hidden"/>
+                <button type="submit">
+                    搜索
+                </button>
+            </div>
+        </div>
+        <div class="wr">
+            <div class="wr-i">购物车</div>
+            <div class="wr-i">
+                <a href="main_page.html">2</a>
+            </div>
+            <div class="wr-i">件</div>
+        </div>
+    </div>
+    <div class="menu">
+        <div class="mb">
+            <div class="mbl">
+                <div class="dt">
+                    <div>全部商品分类</div>
+                </div>
+                <div class="dd">
+                    <ul class="item">
+                        <li>
+                            <div class="li-title">
+                                <a href="main_page.html">乳山三宝</a>
+                            </div>
+                            <p>
+                                <a href="main_page.html">牡蛎</a>
+                                <a href="main_page.html">绿茶</a>
+                                <a href="main_page.html">大姜</a>
+                            </p>
+                        </li>
+                        <li>
+                            <div class="li-title">
+                                <a href="main_page.html">乳山特产</a>
+                            </div>
+                            <p>
+                                <a href="main_page.html">媳妇饼</a>
+                                <a href="main_page.html">大花生</a>
+                                <a href="main_page.html">皮皮虾</a>
+                            </p>
+                        </li>
+                        <li>
+                            <div class="li-title">
+                                <a href="main_page.html">乳山特产</a>
+                            </div>
+                            <p>
+                                <a href="main_page.html">乳山板栗</a>
+                                <a href="main_page.html">乳山巴梨</a>
+                                <a href="main_page.html">乳山樱桃</a>
+                            </p>
+                        </li>
+                        <li>
+                            <div class="li-title">
+                                <a href="main_page.html">乳山特产</a>
+                            </div>
+                            <p>
+                                <a href="main_page.html">刺参</a>
+                                <a href="main_page.html">海参</a>
+                                <a href="main_page.html">海虹</a>
+                            </p>
+                        </li>
+                        <li>
+                            <div class="li-title">
+                                <a href="main_page.html">乳山特产</a>
+                            </div>
+                            <p>
+                                <a href="main_page.html">鱿鱼</a>
+                                <a href="main_page.html">蚬子</a>
+                                <a href="main_page.html">螃蟹</a>
+                            </p>
+                        </li>
+                        <li>
+                            <div class="li-title">
+                                <a href="main_page.html">乳山特产</a>
+                            </div>
+                            <p>
+                                <a href="main_page.html">对虾</a>
+                                <a href="main_page.html">海虹</a>
+                                <a href="main_page.html">乌贼</a>
+                            </p>
+</li>
+                    </ul>
+                </div>
+                <div class="dm">
+                    <div class="dm-title">热销排行榜</div>
+                    <div class="dm-info">乳山牡蛎</div>
+                </div>
+            </div>
+            <div class="mbm">
+                <ul>
+                    <li><a href="main_page.html">首页</a></li>
+                    <li><a href="main_page.html">网上超市</a></li>
+                    <li><a href="main_page.html">超级订餐</a></li>
+                    <li><a href="main_page.html">渔家乐</a></li>
+                    <li><a href="main_page.html">海景房</a></li>
+                </ul>
+            </div>
+            <div class="mbr">
+                <ul>
+                    <li><a href="main_page.html">银滩</a></li>
+                    <li><a href="main_page.html">大乳山</a></li>
+                    <li><a href="main_page.html">论坛</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="bb">
+        <div class="br">
+            <div class="brt">
+                <div class="brtb">
+                    <span>乳山特产</span>
+                    &gt;
+                    <span>乳山三宝</span>
+                    &gt;
+                    <span>牡蛎</span>
+                </div>
+            </div>
+            <div class="brm">
+                <div class="brm-inner">
+                    <div class="brmb">
+                        <div class="brmb-title">您已选择:</div>
+                        <div class="brmb-menu">牡蛎</div>
+                    </div>
+                    <div class="brmb">
+                        <div class="brmb-title">产地:</div>
+                        <div class="brmb-menu">小青岛</div>
+                        <div class="brmb-menu">南黄岛</div>
+                        <div class="brmb-menu">宫家岛</div>
+                    </div>
+                    <div class="brmb">
+                        <div class="brmb-title">品牌:</div>
+                        <div class="brmb-menu">乳山牡蛎</div>
+                        <div class="brmb-menu">乳山牡蛎</div>
+                        <div class="brmb-menu">乳山牡蛎</div>
+                    </div>
+                    <div class="brmb">
+                        <div class="brmb-title">风格:</div>
+                        <div class="brmb-menu">50g</div>
+                        <div class="brmb-menu">100g</div>
+                        <div class="brmb-menu">150g</div>
+                    </div>
+                </div>
+            </div>
+            <div class="brs">
+                <div class="brs-r-left">
+                    <div class="brs-title">
+                        <div>排序:</div>
+                    </div>
+                    <div class="brs-menu">
+                        <a href="main_page.html">价格 &dArr;</a>
+                        <a href="main_page.html">销量 &dArr;</a>
+                        <a href="main_page.html">最新 &uArr;</a>
+                    </div>
+                    <div class="brs-r">
+                        <div>共675件商品</div>
+                    </div>
+                </div>
+                <div class="brs-r-right">
+                    <div class="brs-r-right-i">1</div>
+                    <div class="brs-r-right-i">/</div>
+                    <div class="brs-r-right-i">675</div>
+                    <div class="brs-r-right-i">
+                        <a href="main_page.html">&lt;</a>
+                        <a href="main_page.html">&gt;</a>
+                    </div>
+                </div>
+            </div>
+            <div class="brd">
+                <div class="brd-info">
+                    <div class="brd-img"><img src="../static/img/muli.png"/></div>
+                    <div class="brd-name">乳山特产 新鲜牡蛎</div>
+                    <div class="brd-price">&yen;69.00</div>
+                    <div class="brd-amount-form">
+                        <div class="brd-amount-o">
+                            <a href="main_page.html">&minus;</a>
+                        </div>
+                        <div class="brd-amount-i">10</div>
+                        <div class="brd-amount-o">
+                            <a href="main_page.html">+</a>
+                        </div>
+                    </div>
+                    <div class="brd-amount-r">
+                        <a href="main_page.html">买</a>
+                    </div>
+                </div>
+                <div class="brd-info">
+                    <div class="brd-img"><img src="../static/img/muli.png"/></div>
+                    <div class="brd-name">乳山特产 新鲜牡蛎</div>
+                    <div class="brd-price">&yen;69.00</div>
+                    <div class="brd-amount-form">
+                        <div class="brd-amount-o">
+                            <a href="main_page.html">&minus;</a>
+                        </div>
+                        <div class="brd-amount-i">10</div>
+                        <div class="brd-amount-o">
+                            <a href="main_page.html">+</a>
+                        </div>
+                    </div>
+                    <div class="brd-amount-r">
+                        <a href="main_page.html">买</a>
+                    </div>
+                </div>
+                <div class="brd-info">
+                    <div class="brd-img"><img src="../static/img/muli.png"/></div>
+                    <div class="brd-name">乳山特产 新鲜牡蛎</div>
+                    <div class="brd-price">&yen;69.00</div>
+                    <div class="brd-amount-form">
+                        <div class="brd-amount-o">
+                            <a href="main_page.html">&minus;</a>
+                        </div>
+                        <div class="brd-amount-i">10</div>
+                        <div class="brd-amount-o">
+                            <a href="main_page.html">+</a>
+                        </div>
+                    </div>
+                    <div class="brd-amount-r">
+                        <a href="main_page.html">买</a>
+                    </div>
+                </div>
+                <div class="brd-info">
+                    <div class="brd-img"><img src="../static/img/muli.png"/></div>
+                    <div class="brd-name">乳山特产 新鲜牡蛎</div>
+                    <div class="brd-price">&yen;69.00</div>
+                    <div class="brd-amount-form">
+                        <div class="brd-amount-o">
+                            <a href="main_page.html">&minus;</a>
+                        </div>
+                        <div class="brd-amount-i">10</div>
+                        <div class="brd-amount-o">
+                            <a href="main_page.html">+</a>
+                        </div>
+                    </div>
+                    <div class="brd-amount-r">
+                        <a href="main_page.html">买</a>
+                    </div>
+                </div>
+                <div class="brd-info">
+                    <div class="brd-img"><img src="../static/img/muli.png"/></div>
+                    <div class="brd-name">乳山特产 新鲜牡蛎</div>
+                    <div class="brd-price">&yen;69.00</div>
+                    <div class="brd-amount-form">
+                        <div class="brd-amount-o">&minus;</div>
+                        <div class="brd-amount-i">10</div>
+                        <div class="brd-amount-o">+</div>
+                    </div>
+                    <div class="brd-amount-r">买</div>
+                </div>
+                <div class="brd-info">
+                    <div class="brd-img"><img src="../static/img/muli.png"/></div>
+                    <div class="brd-name">乳山特产 新鲜牡蛎</div>
+                    <div class="brd-price">&yen;69.00</div>
+                    <div class="brd-amount-form">
+                        <div class="brd-amount-o">&minus;</div>
+                        <div class="brd-amount-i">10</div>
+                        <div class="brd-amount-o">+</div>
+                    </div>
+                    <div class="brd-amount-r">买</div>
+                </div>
+                <div class="brd-info">
+                    <div class="brd-img"><img src="../static/img/muli.png"/></div>
+                    <div class="brd-name">乳山特产 新鲜牡蛎</div>
+                    <div class="brd-price">&yen;69.00</div>
+                    <div class="brd-amount-form">
+                        <div class="brd-amount-o">&minus;</div>
+                        <div class="brd-amount-i">10</div>
+                        <div class="brd-amount-o">+</div>
+                    </div>
+                    <div class="brd-amount-r">买</div>
+                </div>
+                <div class="brd-info">
+                    <div class="brd-img"><img src="../static/img/muli.png"/></div>
+                    <div class="brd-name">乳山特产 新鲜牡蛎</div>
+                    <div class="brd-price">&yen;69.00</div>
+                    <div class="brd-amount-form">
+                        <div class="brd-amount-o">&minus;</div>
+                        <div class="brd-amount-i">10</div>
+                        <div class="brd-amount-o">+</div>
+                    </div>
+                    <div class="brd-amount-r">买</div>
+                </div>
+                <div class="brd-info">
+                    <div class="brd-img"><img src="../static/img/muli.png"/></div>
+                    <div class="brd-name">乳山特产 新鲜牡蛎</div>
+                    <div class="brd-price">&yen;69.00</div>
+                    <div class="brd-amount-form">
+                        <div class="brd-amount-o">&minus;</div>
+                        <div class="brd-amount-i">10</div>
+                        <div class="brd-amount-o">+</div>
+                    </div>
+                    <div class="brd-amount-r">买</div>
+                </div>
+                <div class="brd-info">
+                    <div class="brd-img"><img src="../static/img/muli.png"/></div>
+                    <div class="brd-name">乳山特产 新鲜牡蛎</div>
+                    <div class="brd-price">&yen;69.00</div>
+                    <div class="brd-amount-form">
+                        <div class="brd-amount-o">&minus;</div>
+                        <div class="brd-amount-i">10</div>
+                        <div class="brd-amount-o">+</div>
+                    </div>
+                    <div class="brd-amount-r">买</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

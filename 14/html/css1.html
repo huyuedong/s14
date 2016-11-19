@@ -2,18 +2,30 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>CSS样式</title>
+    <title>属性选择器</title>
     <style>
-        .s1{
-            background-color: aqua;
-            height: 120px;
-            width: 50%;
-            border: 1px solid red;
-
+        .c1{
+            width: 50px;height: 50px;
+            background-color: chartreuse;
+            /*!*从上往下移50px*!*/
+            /*margin-top: 50px;*/
+            /*!*从左往右移50px*!*/
+            /*margin-left: 50px;*/
+            /*内边距从上往下移50px*/
+            padding-top: 50px;
+            /*内边距从左往右移50px*/
+            padding-left: 50px;
         }
     </style>
 </head>
 <body>
-    <div class="s1">哈哈哈000</div>
+<!--display 为none将隐藏标签-->
+<div class="c1">Hello World</div>
+<!--默认inline。此元素会被显示为内联元素，元素前后没有换行符。-->
+<!--<div style="display: inline;background-color: chartreuse ">Hello World</div>-->
+<!--&lt;!&ndash;block:此元素将显示为块级元素，此元素前后会带有换行符。&ndash;&gt;-->
+<!--<a style="display: block;background-color: chartreuse ">Hello World</a>-->
+<!--&lt;!&ndash;既有设置行内标签属性，也有块级标签属性&ndash;&gt;-->
+<!--<a style="display: inline-block;background-color: chartreuse ">Hello World</a>-->
 </body>
 </html>

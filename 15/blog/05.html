@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>z-index</title>
+    <style>
+        .page1{
+            z-index: 10;
+            background-color: aquamarine;
+            height: 300px;
+            width: 500px;
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            margin-top: -150px;
+            margin-left: -250px;
+        }
+        .page2{
+            z-index: 9;
+            background-color: #AAAAAA;
+            top:0;
+            right:0;
+            bottom: 0;
+            left:0;
+            position: fixed;
+            opacity: 0.5;
+        }
+        .page3{
+            background-color: blue;
+            height: 500px;
+            margin-top: 50px;
+        }
+    </style>
+</head>
+<body>
+    <div class="page1">页面一</div>
+    <div class="page2">页面二</div>
+    <div class="page3">页面三</div>
+</body>
+</html>
