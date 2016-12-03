@@ -2,52 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b48eba0b-35b8-4f5e-af0d-2c2e34054065" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14/task/static/pic/4.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14/task/static/pic/joy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14/task/static/pic/mix.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/15/CSS补充/icon1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/15/CSS补充/user_icon.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/15/blog/i_pwd.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/15/blog/icon1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/15/blog/user_icon.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/15/mix.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14/review/1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14/review/3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14/task/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14/task/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14/task/static/css/module.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14/template/main_page.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/15/CSS补充/backgroud-icon.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/15/CSS补充/dom.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/15/CSS补充/dom_nb.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/15/CSS补充/hover_stu.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/15/CSS补充/position2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/15/CSS补充/position3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/15/CSS补充/postion_func.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/15/JS/js1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/15/JS/note" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/15/blog/01.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/15/blog/02.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/15/blog/03.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/15/blog/04.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/15/blog/05.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/15/blog/06.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/15/blog/07-输入框例子.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/15/blog/07.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/15/blog/08.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/15/blog/09.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/15/blog/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/15/blog/all-in.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/15/pre01.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16/note" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16/r1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16/s3 (1).html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16/s3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17/自己点个赞.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17/复制添加.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17/摸态对话框2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17/s1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17/note" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16/r2_js1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16/r3_js2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17/jquery-1.12.4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17/菜单demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16/r4_js3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17/点个赞.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17/摸态对话框.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16/r5.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17/多级菜单demo.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/14/html/css1.html" afterPath="$PROJECT_DIR$/14/html/css1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/14/html/s4.html" afterPath="$PROJECT_DIR$/14/html/s4.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/14/html/锚.html" afterPath="$PROJECT_DIR$/14/html/锚.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/14/review/s1.html" afterPath="$PROJECT_DIR$/14/review/s1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/16/note" afterPath="$PROJECT_DIR$/16/note" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
     </list>
     <ignored path="s14.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -59,99 +30,98 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/s14$atm_login.coverage" NAME="atm_login Coverage Results" MODIFIED="1471540525072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04/task/ATM_Mall/src" />
-    <SUITE FILE_PATH="coverage/s14$RPC_server.coverage" NAME="RPC_server Coverage Results" MODIFIED="1476889504023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11/task" />
-    <SUITE FILE_PATH="coverage/s14$gevent.coverage" NAME="协程gevent Coverage Results" MODIFIED="1474700716487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10" />
-    <SUITE FILE_PATH="coverage/s14$Process_mod.coverage" NAME="Process_mod Coverage Results" MODIFIED="1476274986312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test1/20161012" />
-    <SUITE FILE_PATH="coverage/s14$get_process_id.coverage" NAME="get_process_id Coverage Results" MODIFIED="1474686235116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10" />
-    <SUITE FILE_PATH="coverage/s14$fanout_producer.coverage" NAME="fanout_producer Coverage Results" MODIFIED="1476509060869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11/fanout" />
-    <SUITE FILE_PATH="coverage/s14$RPC_Master.coverage" NAME="RPC_Master Coverage Results" MODIFIED="1477016448580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11/task/RabbitMQ_RPC" />
-    <SUITE FILE_PATH="coverage/s14$orm_api.coverage" NAME="orm_api Coverage Results" MODIFIED="1477564880209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12/ORM" />
-    <SUITE FILE_PATH="coverage/s14$Pipe.coverage" NAME="Pipe Coverage Results" MODIFIED="1474688333148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10" />
-    <SUITE FILE_PATH="coverage/s14$ORM_basic2.coverage" NAME="ORM_basic2 Coverage Results" MODIFIED="1477486271499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12" />
-    <SUITE FILE_PATH="coverage/s14$open.coverage" NAME="open Coverage Results" MODIFIED="1470842065416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03/work01" />
-    <SUITE FILE_PATH="coverage/s14$account_sample.coverage" NAME="account_sample Coverage Results" MODIFIED="1472048642075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5-atm/atm/db" />
-    <SUITE FILE_PATH="coverage/s14$db_modules.coverage" NAME="db_modules Coverage Results" MODIFIED="1477725140122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13/bastion_hosts/modules" />
-    <SUITE FILE_PATH="coverage/s14$coding.coverage" NAME="coding Coverage Results" MODIFIED="1471070122859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04" />
-    <SUITE FILE_PATH="coverage/s14$atm.coverage" NAME="atm Coverage Results" MODIFIED="1472132029892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04/task/ATM_Mall/src" />
-    <SUITE FILE_PATH="coverage/s14$send.coverage" NAME="send Coverage Results" MODIFIED="1476504445917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11/pika" />
-    <SUITE FILE_PATH="coverage/s14$SocketServerNew.coverage" NAME="SocketServerNew Coverage Results" MODIFIED="1473501688005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08" />
-    <SUITE FILE_PATH="coverage/s14$db_operater.coverage" NAME="db_operater Coverage Results" MODIFIED="1471532861037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework5/atm_mall/general_module" />
-    <SUITE FILE_PATH="coverage/s14$RPC_Minion.coverage" NAME="RPC_Minion Coverage Results" MODIFIED="1477017280022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11/task/RabbitMQ_RPC" />
-    <SUITE FILE_PATH="coverage/s14$socket_client__2_.coverage" NAME="socket_client (2) Coverage Results" MODIFIED="1473501257978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08/socket_md5" />
-    <SUITE FILE_PATH="coverage/s14$db_conn.coverage" NAME="db_conn Coverage Results" MODIFIED="1471532719300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04/task/ATM_Mall/src" />
-    <SUITE FILE_PATH="coverage/s14$productor.coverage" NAME="productor Coverage Results" MODIFIED="1476263669830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test1/20161012" />
-    <SUITE FILE_PATH="coverage/s14$SocketClientNew.coverage" NAME="SocketClientNew Coverage Results" MODIFIED="1473501711582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08" />
-    <SUITE FILE_PATH="coverage/s14$Q.coverage" NAME="进程Q Coverage Results" MODIFIED="1474687724417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10" />
-    <SUITE FILE_PATH="coverage/s14$subscriber.coverage" NAME="subscriber Coverage Results" MODIFIED="1476513386286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11/director" />
-    <SUITE FILE_PATH="coverage/s14$threading_1.coverage" NAME="threading_1 Coverage Results" MODIFIED="1474101581681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09" />
-    <SUITE FILE_PATH="coverage/s14$process.coverage" NAME="process Coverage Results" MODIFIED="1476263987264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test1/20161012" />
-    <SUITE FILE_PATH="coverage/s14$db_handle.coverage" NAME="db_handle Coverage Results" MODIFIED="1472047170410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05/task/src" />
-    <SUITE FILE_PATH="coverage/s14$transaction.coverage" NAME="transaction Coverage Results" MODIFIED="1471878345441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5-atm/atm/core" />
-    <SUITE FILE_PATH="coverage/s14$cmd.coverage" NAME="cmd Coverage Results" MODIFIED="1474523582721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09/task/bin" />
-    <SUITE FILE_PATH="coverage/s14$redis_conn.coverage" NAME="redis_conn Coverage Results" MODIFIED="1476523076437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11/redis" />
-    <SUITE FILE_PATH="coverage/s14$database.coverage" NAME="database Coverage Results" MODIFIED="1472376220257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06/task/db" />
-    <SUITE FILE_PATH="coverage/s14$settings.coverage" NAME="settings Coverage Results" MODIFIED="1472379250099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06/task/conf" />
-    <SUITE FILE_PATH="coverage/s14$cmd__1_.coverage" NAME="cmd (1) Coverage Results" MODIFIED="1474604222863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09/task/src" />
-    <SUITE FILE_PATH="coverage/s14$sed.coverage" NAME="sed Coverage Results" MODIFIED="1470930502257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03/work01" />
-    <SUITE FILE_PATH="coverage/s14$shopping_mall.coverage" NAME="shopping_mall Coverage Results" MODIFIED="1471349288549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02/homework" />
-    <SUITE FILE_PATH="coverage/s14$receive.coverage" NAME="receive Coverage Results" MODIFIED="1476504186545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11/pika" />
-    <SUITE FILE_PATH="coverage/s14$timer.coverage" NAME="timer Coverage Results" MODIFIED="1476262502787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test1/20161012" />
-    <SUITE FILE_PATH="coverage/s14$.coverage" NAME="多对多 Coverage Results" MODIFIED="1477579695349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12/ORM" />
-    <SUITE FILE_PATH="coverage/s14$ProcessPool.coverage" NAME="ProcessPool Coverage Results" MODIFIED="1474691918507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10" />
-    <SUITE FILE_PATH="coverage/s14$test.coverage" NAME="test Coverage Results" MODIFIED="1471318841062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04/test" />
-    <SUITE FILE_PATH="coverage/s14$socket_server__2_.coverage" NAME="socket_server (2) Coverage Results" MODIFIED="1473497383365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08/socket_md5" />
-    <SUITE FILE_PATH="coverage/s14$paramiko_ssh.coverage" NAME="paramiko_ssh Coverage Results" MODIFIED="1474080648986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09" />
-    <SUITE FILE_PATH="coverage/s14$socket_client__1_.coverage" NAME="socket_client (1) Coverage Results" MODIFIED="1473501412229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08" />
-    <SUITE FILE_PATH="coverage/s14$manage.coverage" NAME="manage Coverage Results" MODIFIED="1474689453554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10" />
-    <SUITE FILE_PATH="coverage/s14$Server.coverage" NAME="Server Coverage Results" MODIFIED="1476517457683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11/RPC" />
-    <SUITE FILE_PATH="coverage/s14$sqlalchemy_mod.coverage" NAME="sqlalchemy_mod Coverage Results" MODIFIED="1477127525744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12" />
-    <SUITE FILE_PATH="coverage/s14$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1471167193164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04/test" />
-    <SUITE FILE_PATH="coverage/s14$xml_test.coverage" NAME="xml_test Coverage Results" MODIFIED="1471690063125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05" />
-    <SUITE FILE_PATH="coverage/s14$_school.coverage" NAME="继承-school Coverage Results" MODIFIED="1472566660412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06" />
-    <SUITE FILE_PATH="coverage/s14$RPC_client.coverage" NAME="RPC_client Coverage Results" MODIFIED="1477016526696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11/task" />
-    <SUITE FILE_PATH="coverage/s14$multi_level.coverage" NAME="multi_level Coverage Results" MODIFIED="1474262957025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01" />
-    <SUITE FILE_PATH="coverage/s14$Client.coverage" NAME="Client Coverage Results" MODIFIED="1476517483232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11/RPC" />
-    <SUITE FILE_PATH="coverage/s14$basic.coverage" NAME="basic Coverage Results" MODIFIED="1477317046205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12/ORM" />
     <SUITE FILE_PATH="coverage/s14$index_login.coverage" NAME="index_login Coverage Results" MODIFIED="1471532899146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/shaolin" />
-    <SUITE FILE_PATH="coverage/s14$queue.coverage" NAME="queue Coverage Results" MODIFIED="1476262885882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test1/20161012" />
-    <SUITE FILE_PATH="coverage/s14$note.coverage" NAME="note Coverage Results" MODIFIED="1472984657107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07/note" />
-    <SUITE FILE_PATH="coverage/s14$_handle.coverage" NAME="多外键关联_handle Coverage Results" MODIFIED="1477560263918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12/ORM" />
-    <SUITE FILE_PATH="coverage/s14$publisher.coverage" NAME="publisher Coverage Results" MODIFIED="1476513380793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11/director" />
-    <SUITE FILE_PATH="coverage/s14$test00.coverage" NAME="test00 Coverage Results" MODIFIED="1478076681982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test1" />
-    <SUITE FILE_PATH="coverage/s14$insert1.coverage" NAME="insert1 Coverage Results" MODIFIED="1477493021048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12/ORM" />
+    <SUITE FILE_PATH="coverage/s14$atm_login.coverage" NAME="atm_login Coverage Results" MODIFIED="1471540525072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04/task/ATM_Mall/src" />
+    <SUITE FILE_PATH="coverage/s14$blog.coverage" NAME="blog Coverage Results" MODIFIED="1472369118588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06" />
+    <SUITE FILE_PATH="coverage/s14$basic.coverage" NAME="basic Coverage Results" MODIFIED="1477317046205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12/ORM" />
     <SUITE FILE_PATH="coverage/s14$edit_ha.coverage" NAME="edit_ha Coverage Results" MODIFIED="1470930504520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03/work01" />
-    <SUITE FILE_PATH="coverage/s14$socket_client.coverage" NAME="socket_client Coverage Results" MODIFIED="1474714968909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10" />
-    <SUITE FILE_PATH="coverage/s14$pymysql_mod.coverage" NAME="pymysql_mod Coverage Results" MODIFIED="1477274560443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12" />
+    <SUITE FILE_PATH="coverage/s14$shopping.coverage" NAME="shopping Coverage Results" MODIFIED="1471352841704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04/task/ATM_Mall/bin" />
+    <SUITE FILE_PATH="coverage/s14$_handle.coverage" NAME="多外键关联_handle Coverage Results" MODIFIED="1477560263918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12/ORM" />
+    <SUITE FILE_PATH="coverage/s14$paramiko_key.coverage" NAME="paramiko_key Coverage Results" MODIFIED="1474088825035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09" />
+    <SUITE FILE_PATH="coverage/s14$cmd.coverage" NAME="cmd Coverage Results" MODIFIED="1474523582721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09/task/bin" />
+    <SUITE FILE_PATH="coverage/s14$orm_b1.coverage" NAME="orm_b1 Coverage Results" MODIFIED="1477563578626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12/ORM" />
+    <SUITE FILE_PATH="coverage/s14$SocketServerNew.coverage" NAME="SocketServerNew Coverage Results" MODIFIED="1473501688005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08" />
+    <SUITE FILE_PATH="coverage/s14$settings.coverage" NAME="settings Coverage Results" MODIFIED="1472379250099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06/task/conf" />
+    <SUITE FILE_PATH="coverage/s14$note.coverage" NAME="note Coverage Results" MODIFIED="1472984657107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07/note" />
+    <SUITE FILE_PATH="coverage/s14$test00.coverage" NAME="test00 Coverage Results" MODIFIED="1478076681982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test1" />
+    <SUITE FILE_PATH="coverage/s14$process.coverage" NAME="process Coverage Results" MODIFIED="1476263987264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test1/20161012" />
+    <SUITE FILE_PATH="coverage/s14$insert1.coverage" NAME="insert1 Coverage Results" MODIFIED="1477493021048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12/ORM" />
+    <SUITE FILE_PATH="coverage/s14$cmd__1_.coverage" NAME="cmd (1) Coverage Results" MODIFIED="1474604222863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09/task/src" />
+    <SUITE FILE_PATH="coverage/s14$ftp_client.coverage" NAME="ftp_client Coverage Results" MODIFIED="1476416877795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10/task/ftp_client" />
+    <SUITE FILE_PATH="coverage/s14$thread_mod.coverage" NAME="thread_mod Coverage Results" MODIFIED="1476257471570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test1/20161012" />
+    <SUITE FILE_PATH="coverage/s14$productor.coverage" NAME="productor Coverage Results" MODIFIED="1476263669830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test1/20161012" />
+    <SUITE FILE_PATH="coverage/s14$threading_1.coverage" NAME="threading_1 Coverage Results" MODIFIED="1474101581681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09" />
     <SUITE FILE_PATH="coverage/s14$rds.coverage" NAME="rds Coverage Results" MODIFIED="1473321253072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test1" />
     <SUITE FILE_PATH="coverage/s14$main.coverage" NAME="main Coverage Results" MODIFIED="1472742926839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06/task/src" />
-    <SUITE FILE_PATH="coverage/s14$fanout_consumer.coverage" NAME="fanout_consumer Coverage Results" MODIFIED="1476509076107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11/fanout" />
-    <SUITE FILE_PATH="coverage/s14$atm_index__1_.coverage" NAME="atm_index (1) Coverage Results" MODIFIED="1472261973585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04/task/ATM_Mall/bin" />
-    <SUITE FILE_PATH="coverage/s14$role.coverage" NAME="role Coverage Results" MODIFIED="1472659084929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06/task/src" />
-    <SUITE FILE_PATH="coverage/s14$ftp_server__1_.coverage" NAME="ftp_server (1) Coverage Results" MODIFIED="1476416873847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10/task/ftp_server/bin" />
-    <SUITE FILE_PATH="coverage/s14$index.coverage" NAME="index Coverage Results" MODIFIED="1474604056875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09/task/bin" />
-    <SUITE FILE_PATH="coverage/s14$socket_server__1_.coverage" NAME="socket_server (1) Coverage Results" MODIFIED="1473491231035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08" />
-    <SUITE FILE_PATH="coverage/s14$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1472741608637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06/task/bin" />
-    <SUITE FILE_PATH="coverage/s14$paramiko_key.coverage" NAME="paramiko_key Coverage Results" MODIFIED="1474088825035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09" />
-    <SUITE FILE_PATH="coverage/s14$orm_b1.coverage" NAME="orm_b1 Coverage Results" MODIFIED="1477563578626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12/ORM" />
-    <SUITE FILE_PATH="coverage/s14$atm_index.coverage" NAME="atm_index Coverage Results" MODIFIED="1472089773823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05/task/bin" />
-    <SUITE FILE_PATH="coverage/s14$app.coverage" NAME="app Coverage Results" MODIFIED="1478434117258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14/html" />
-    <SUITE FILE_PATH="coverage/s14$thread_mod.coverage" NAME="thread_mod Coverage Results" MODIFIED="1476257471570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test1/20161012" />
-    <SUITE FILE_PATH="coverage/s14$ORM_basic.coverage" NAME="ORM_basic Coverage Results" MODIFIED="1477129879185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12" />
     <SUITE FILE_PATH="coverage/s14$setting.coverage" NAME="setting Coverage Results" MODIFIED="1471532812316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework5/atm_mall/conf" />
-    <SUITE FILE_PATH="coverage/s14$123.coverage" NAME="123 Coverage Results" MODIFIED="1476416152328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08/task/ftp_client" />
-    <SUITE FILE_PATH="coverage/s14$socket_server.coverage" NAME="socket_server Coverage Results" MODIFIED="1474714960006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10" />
+    <SUITE FILE_PATH="coverage/s14$transaction.coverage" NAME="transaction Coverage Results" MODIFIED="1471878345441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5-atm/atm/core" />
+    <SUITE FILE_PATH="coverage/s14$sed.coverage" NAME="sed Coverage Results" MODIFIED="1470930502257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03/work01" />
     <SUITE FILE_PATH="coverage/s14$deal.coverage" NAME="deal Coverage Results" MODIFIED="1472052981782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05/task/src" />
-    <SUITE FILE_PATH="coverage/s14$ftp_client.coverage" NAME="ftp_client Coverage Results" MODIFIED="1476416877795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10/task/ftp_client" />
-    <SUITE FILE_PATH="coverage/s14$blog.coverage" NAME="blog Coverage Results" MODIFIED="1472369118588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06" />
-    <SUITE FILE_PATH="coverage/s14$paramiko_sftp.coverage" NAME="paramiko_sftp Coverage Results" MODIFIED="1474079942726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09" />
-    <SUITE FILE_PATH="coverage/s14$shopping.coverage" NAME="shopping Coverage Results" MODIFIED="1471352841704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04/task/ATM_Mall/bin" />
-    <SUITE FILE_PATH="coverage/s14$atm__1_.coverage" NAME="atm (1) Coverage Results" MODIFIED="1472092702497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05/task/src" />
-    <SUITE FILE_PATH="coverage/s14$ftp_server.coverage" NAME="ftp_server Coverage Results" MODIFIED="1476416128124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10/task/ftp_server/src" />
+    <SUITE FILE_PATH="coverage/s14$pymysql_mod.coverage" NAME="pymysql_mod Coverage Results" MODIFIED="1477274560443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12" />
+    <SUITE FILE_PATH="coverage/s14$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1472741608637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06/task/bin" />
+    <SUITE FILE_PATH="coverage/s14$ORM_basic2.coverage" NAME="ORM_basic2 Coverage Results" MODIFIED="1477486271499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12" />
+    <SUITE FILE_PATH="coverage/s14$db_operater.coverage" NAME="db_operater Coverage Results" MODIFIED="1471532861037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework5/atm_mall/general_module" />
+    <SUITE FILE_PATH="coverage/s14$RPC_Minion.coverage" NAME="RPC_Minion Coverage Results" MODIFIED="1477017280022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11/task/RabbitMQ_RPC" />
+    <SUITE FILE_PATH="coverage/s14$socket_server__1_.coverage" NAME="socket_server (1) Coverage Results" MODIFIED="1473491231035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08" />
+    <SUITE FILE_PATH="coverage/s14$shopping_mall.coverage" NAME="shopping_mall Coverage Results" MODIFIED="1471349288549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02/homework" />
+    <SUITE FILE_PATH="coverage/s14$receive.coverage" NAME="receive Coverage Results" MODIFIED="1476504186545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11/pika" />
+    <SUITE FILE_PATH="coverage/s14$Q.coverage" NAME="进程Q Coverage Results" MODIFIED="1474687724417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10" />
+    <SUITE FILE_PATH="coverage/s14$db_modules.coverage" NAME="db_modules Coverage Results" MODIFIED="1477725140122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13/bastion_hosts/modules" />
+    <SUITE FILE_PATH="coverage/s14$RPC_Master.coverage" NAME="RPC_Master Coverage Results" MODIFIED="1477016448580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11/task/RabbitMQ_RPC" />
+    <SUITE FILE_PATH="coverage/s14$sqlalchemy_mod.coverage" NAME="sqlalchemy_mod Coverage Results" MODIFIED="1477127525744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12" />
+    <SUITE FILE_PATH="coverage/s14$queue.coverage" NAME="queue Coverage Results" MODIFIED="1476262885882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test1/20161012" />
+    <SUITE FILE_PATH="coverage/s14$ORM_basic.coverage" NAME="ORM_basic Coverage Results" MODIFIED="1477129879185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12" />
+    <SUITE FILE_PATH="coverage/s14$send.coverage" NAME="send Coverage Results" MODIFIED="1476504445917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11/pika" />
+    <SUITE FILE_PATH="coverage/s14$RPC_server.coverage" NAME="RPC_server Coverage Results" MODIFIED="1476889504023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11/task" />
+    <SUITE FILE_PATH="coverage/s14$paramiko_ssh.coverage" NAME="paramiko_ssh Coverage Results" MODIFIED="1474080648986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09" />
+    <SUITE FILE_PATH="coverage/s14$gevent.coverage" NAME="协程gevent Coverage Results" MODIFIED="1474700716487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10" />
+    <SUITE FILE_PATH="coverage/s14$coding.coverage" NAME="coding Coverage Results" MODIFIED="1471070122859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04" />
+    <SUITE FILE_PATH="coverage/s14$_school.coverage" NAME="继承-school Coverage Results" MODIFIED="1472566660412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06" />
+    <SUITE FILE_PATH="coverage/s14$Process_mod.coverage" NAME="Process_mod Coverage Results" MODIFIED="1476274986312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test1/20161012" />
+    <SUITE FILE_PATH="coverage/s14$.coverage" NAME="多对多 Coverage Results" MODIFIED="1477579695349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12/ORM" />
+    <SUITE FILE_PATH="coverage/s14$socket_server__2_.coverage" NAME="socket_server (2) Coverage Results" MODIFIED="1473497383365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08/socket_md5" />
+    <SUITE FILE_PATH="coverage/s14$orm_api.coverage" NAME="orm_api Coverage Results" MODIFIED="1477564880209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12/ORM" />
+    <SUITE FILE_PATH="coverage/s14$app.coverage" NAME="app Coverage Results" MODIFIED="1478434117258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14/html" />
+    <SUITE FILE_PATH="coverage/s14$ftp_server__1_.coverage" NAME="ftp_server (1) Coverage Results" MODIFIED="1476416873847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10/task/ftp_server/bin" />
     <SUITE FILE_PATH="coverage/s14$mall_login.coverage" NAME="mall_login Coverage Results" MODIFIED="1471351952922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework5/atm_mall/mall" />
+    <SUITE FILE_PATH="coverage/s14$multi_level.coverage" NAME="multi_level Coverage Results" MODIFIED="1474262957025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01" />
+    <SUITE FILE_PATH="coverage/s14$ftp_server.coverage" NAME="ftp_server Coverage Results" MODIFIED="1476416128124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10/task/ftp_server/src" />
+    <SUITE FILE_PATH="coverage/s14$fanout_consumer.coverage" NAME="fanout_consumer Coverage Results" MODIFIED="1476509076107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11/fanout" />
+    <SUITE FILE_PATH="coverage/s14$account_sample.coverage" NAME="account_sample Coverage Results" MODIFIED="1472048642075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5-atm/atm/db" />
+    <SUITE FILE_PATH="coverage/s14$open.coverage" NAME="open Coverage Results" MODIFIED="1470842065416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03/work01" />
+    <SUITE FILE_PATH="coverage/s14$db_conn.coverage" NAME="db_conn Coverage Results" MODIFIED="1471532719300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04/task/ATM_Mall/src" />
+    <SUITE FILE_PATH="coverage/s14$publisher.coverage" NAME="publisher Coverage Results" MODIFIED="1476513380793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11/director" />
+    <SUITE FILE_PATH="coverage/s14$socket_client.coverage" NAME="socket_client Coverage Results" MODIFIED="1474714968909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10" />
+    <SUITE FILE_PATH="coverage/s14$Pipe.coverage" NAME="Pipe Coverage Results" MODIFIED="1474688333148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10" />
+    <SUITE FILE_PATH="coverage/s14$db_handle.coverage" NAME="db_handle Coverage Results" MODIFIED="1472047170410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05/task/src" />
+    <SUITE FILE_PATH="coverage/s14$socket_client__1_.coverage" NAME="socket_client (1) Coverage Results" MODIFIED="1473501412229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08" />
+    <SUITE FILE_PATH="coverage/s14$atm_index__1_.coverage" NAME="atm_index (1) Coverage Results" MODIFIED="1472261973585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04/task/ATM_Mall/bin" />
+    <SUITE FILE_PATH="coverage/s14$subscriber.coverage" NAME="subscriber Coverage Results" MODIFIED="1476513386286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11/director" />
+    <SUITE FILE_PATH="coverage/s14$index.coverage" NAME="index Coverage Results" MODIFIED="1474604056875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09/task/bin" />
+    <SUITE FILE_PATH="coverage/s14$atm_index.coverage" NAME="atm_index Coverage Results" MODIFIED="1472089773823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05/task/bin" />
+    <SUITE FILE_PATH="coverage/s14$socket_server.coverage" NAME="socket_server Coverage Results" MODIFIED="1474714960006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10" />
     <SUITE FILE_PATH="coverage/s14$ftp_client__1_.coverage" NAME="ftp_client (1) Coverage Results" MODIFIED="1476415875485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08/task/ftp_client" />
+    <SUITE FILE_PATH="coverage/s14$paramiko_sftp.coverage" NAME="paramiko_sftp Coverage Results" MODIFIED="1474079942726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09" />
+    <SUITE FILE_PATH="coverage/s14$atm__1_.coverage" NAME="atm (1) Coverage Results" MODIFIED="1472092702497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05/task/src" />
+    <SUITE FILE_PATH="coverage/s14$RPC_client.coverage" NAME="RPC_client Coverage Results" MODIFIED="1477016526696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11/task" />
+    <SUITE FILE_PATH="coverage/s14$ProcessPool.coverage" NAME="ProcessPool Coverage Results" MODIFIED="1474691918507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10" />
+    <SUITE FILE_PATH="coverage/s14$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1471167193164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04/test" />
+    <SUITE FILE_PATH="coverage/s14$role.coverage" NAME="role Coverage Results" MODIFIED="1472659084929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06/task/src" />
+    <SUITE FILE_PATH="coverage/s14$xml_test.coverage" NAME="xml_test Coverage Results" MODIFIED="1471690063125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05" />
+    <SUITE FILE_PATH="coverage/s14$Client.coverage" NAME="Client Coverage Results" MODIFIED="1476517483232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11/RPC" />
+    <SUITE FILE_PATH="coverage/s14$database.coverage" NAME="database Coverage Results" MODIFIED="1472376220257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06/task/db" />
+    <SUITE FILE_PATH="coverage/s14$manage.coverage" NAME="manage Coverage Results" MODIFIED="1474689453554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10" />
+    <SUITE FILE_PATH="coverage/s14$Server.coverage" NAME="Server Coverage Results" MODIFIED="1476517457683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11/RPC" />
+    <SUITE FILE_PATH="coverage/s14$socket_client__2_.coverage" NAME="socket_client (2) Coverage Results" MODIFIED="1473501257978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08/socket_md5" />
+    <SUITE FILE_PATH="coverage/s14$redis_conn.coverage" NAME="redis_conn Coverage Results" MODIFIED="1476523076437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11/redis" />
+    <SUITE FILE_PATH="coverage/s14$test.coverage" NAME="test Coverage Results" MODIFIED="1471318841062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04/test" />
+    <SUITE FILE_PATH="coverage/s14$timer.coverage" NAME="timer Coverage Results" MODIFIED="1476262502787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test1/20161012" />
+    <SUITE FILE_PATH="coverage/s14$fanout_producer.coverage" NAME="fanout_producer Coverage Results" MODIFIED="1476509060869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11/fanout" />
+    <SUITE FILE_PATH="coverage/s14$get_process_id.coverage" NAME="get_process_id Coverage Results" MODIFIED="1474686235116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10" />
+    <SUITE FILE_PATH="coverage/s14$SocketClientNew.coverage" NAME="SocketClientNew Coverage Results" MODIFIED="1473501711582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08" />
+    <SUITE FILE_PATH="coverage/s14$123.coverage" NAME="123 Coverage Results" MODIFIED="1476416152328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08/task/ftp_client" />
+    <SUITE FILE_PATH="coverage/s14$atm.coverage" NAME="atm Coverage Results" MODIFIED="1472132029892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04/task/ATM_Mall/src" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -162,41 +132,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="note" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/16/note">
+      <file leaf-file-name="s1.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/17/s1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="s3 (1).html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/16/s3 (1).html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="r1.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/16/r1.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.42533082">
-              <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="s3.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/16/s3.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.5">
-              <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+            <state relative-caret-position="114">
+              <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -216,8 +156,8 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
-        <option value="7y &lt;huyuedong163@163.com&gt;" />
         <option value="huyuedong" />
+        <option value="7y &lt;huyuedong163@163.com&gt;" />
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -231,16 +171,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/13/bastion_hosts/modules/modules.py" />
-        <option value="$PROJECT_DIR$/13/bastion_hosts/conf/settings.py" />
-        <option value="$PROJECT_DIR$/13/test.yaml" />
-        <option value="$PROJECT_DIR$/test1/test00.py" />
-        <option value="$PROJECT_DIR$/13/bastion_hosts/modules/db_modules.py" />
-        <option value="$PROJECT_DIR$/14/html/index.html" />
-        <option value="$PROJECT_DIR$/14/html/app.py" />
-        <option value="$PROJECT_DIR$/14/html/s5.py" />
-        <option value="$PROJECT_DIR$/14/html/s5.html" />
-        <option value="$PROJECT_DIR$/14/html/表格.html" />
         <option value="$PROJECT_DIR$/14/html/表格2.html" />
         <option value="$PROJECT_DIR$/14/html/锚.html" />
         <option value="$PROJECT_DIR$/14/review/s1.html" />
@@ -279,16 +209,27 @@
         <option value="$PROJECT_DIR$/15/blog/07-输入框例子.html" />
         <option value="$PROJECT_DIR$/15/blog/06.html" />
         <option value="$PROJECT_DIR$/15/blog/README.md" />
-        <option value="$PROJECT_DIR$/16/note" />
         <option value="$PROJECT_DIR$/16/r1.py" />
         <option value="$PROJECT_DIR$/16/r1.html" />
+        <option value="$PROJECT_DIR$/16/r2_js1.html" />
+        <option value="$PROJECT_DIR$/16/note" />
+        <option value="$PROJECT_DIR$/16/r3_js2.html" />
+        <option value="$PROJECT_DIR$/16/r4_js3.html" />
+        <option value="$PROJECT_DIR$/16/r5.html" />
+        <option value="$PROJECT_DIR$/17/摸态对话框.html" />
+        <option value="$PROJECT_DIR$/17/摸态对话框2.html" />
+        <option value="$PROJECT_DIR$/17/菜单demo.html" />
+        <option value="$PROJECT_DIR$/17/自己点个赞.html" />
+        <option value="$PROJECT_DIR$/17/点个赞.html" />
+        <option value="$PROJECT_DIR$/17/s1.html" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" />
-  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
@@ -297,14 +238,7 @@
     <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
     <ConfirmationsSetting value="2" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
     <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
@@ -342,7 +276,7 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="16">
+            <PATH_ELEMENT USER_OBJECT="17">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -505,6 +439,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="js.eslint.eslintPackage" value="" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -515,11 +450,11 @@
       <recent name="C:\Users\huyuedong\py\07\note" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\huyuedong\py\17" />
       <recent name="C:\Users\huyuedong\py\16" />
       <recent name="C:\Users\huyuedong\py\15\blog" />
       <recent name="C:\Users\huyuedong\py\15\CSS补充" />
       <recent name="C:\Users\huyuedong\py\15" />
-      <recent name="C:\Users\huyuedong\py\14\task\static\pic" />
     </key>
   </component>
   <component name="RunManager" selected="Python.app">
@@ -683,6 +618,7 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
       <node-options />
       <gulpfile />
       <tasks />
@@ -691,8 +627,9 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run-script" />
+      <command value="run" />
       <scripts />
+      <node-interpreter value="project" />
       <envs />
       <method />
     </configuration>
@@ -823,7 +760,9 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -832,63 +771,80 @@
       <changelist id="b48eba0b-35b8-4f5e-af0d-2c2e34054065" name="Default" comment="" />
       <created>1470748061973</created>
       <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
       <updated>1470748061973</updated>
     </task>
     <task id="LOCAL-00001" summary="huyuedong">
       <created>1470824079326</created>
       <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
       <updated>1470824079326</updated>
     </task>
     <task id="LOCAL-00002" summary="huyuedong">
       <created>1470844643500</created>
       <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
       <updated>1470844643500</updated>
     </task>
     <task id="LOCAL-00003" summary="huyuedong">
       <created>1471003889067</created>
       <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1471003889067</updated>
     </task>
     <task id="LOCAL-00004" summary="huyuedong">
       <created>1471268179351</created>
       <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
       <updated>1471268179351</updated>
     </task>
     <task id="LOCAL-00005" summary="huyuedong">
       <created>1471655743955</created>
       <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
       <updated>1471655743955</updated>
     </task>
     <task id="LOCAL-00006" summary="huyuedong">
       <created>1473833800629</created>
       <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
       <option name="project" value="LOCAL" />
       <updated>1473833800629</updated>
     </task>
     <task id="LOCAL-00007" summary="huyuedong">
       <created>1473833812210</created>
       <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
       <option name="project" value="LOCAL" />
       <updated>1473833812210</updated>
     </task>
     <task id="LOCAL-00008" summary="huyuedong">
       <created>1474251242917</created>
       <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
       <option name="project" value="LOCAL" />
       <updated>1474251242917</updated>
     </task>
     <task id="LOCAL-00009" summary="huyuedong">
       <created>1478430719604</created>
       <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
       <option name="project" value="LOCAL" />
       <updated>1478430719604</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="huyuedong">
+      <created>1479534530444</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1479534530444</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -896,12 +852,12 @@
     <editor active="false" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2118003" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11422088" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6769231" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -938,6 +894,9 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39954597" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.conf" />
@@ -981,205 +940,95 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/06/task/conf/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17055656">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/13/test.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.06834532">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12/ORM/多对多.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="42" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/13/bastion_hosts/conf/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test1/test00.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17511521">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/13/bastion_hosts/modules/db_modules.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5852783">
-          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/14/html/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.96202534">
-          <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/14/note">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/pycharm.jar!/resources/html5-schema/html5/web-forms2.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3327338">
-          <caret line="465" column="22" selection-start-line="465" selection-start-column="22" selection-end-line="465" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/14/html/s5.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24431819">
-          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/14/html/表格.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.821428">
-          <caret line="34" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/14/html/表格2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0359849">
-          <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/14/html/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/14/html/锚.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2159091">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="14" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/14/review/s1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.0795455">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/14/review/3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0075758">
-          <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/14/html/s4.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4318182">
-          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        <state relative-caret-position="0">
+          <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/14/html/css1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17234848">
-          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        <state relative-caret-position="0">
+          <caret line="13" column="24" lean-forward="false" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/14/review/1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6837121">
-          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        <state relative-caret-position="0">
+          <caret line="19" column="9" lean-forward="false" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/14/template/main_page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-27.821428">
-          <caret line="602" column="44" selection-start-line="602" selection-start-column="44" selection-end-line="602" selection-end-column="44" />
+        <state relative-caret-position="0">
+          <caret line="602" column="44" lean-forward="false" selection-start-line="602" selection-start-column="44" selection-end-line="602" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/14/task/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.076">
-            <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/14/task/README.md" />
     <entry file="file://$PROJECT_DIR$/14/task/static/css/module.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44128788">
-          <caret line="268" column="1" selection-start-line="268" selection-start-column="1" selection-end-line="268" selection-end-column="1" />
+        <state relative-caret-position="0">
+          <caret line="268" column="1" lean-forward="false" selection-start-line="268" selection-start-column="1" selection-end-line="268" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/14/task/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/15/JS/note">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.06834532">
-          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        <state relative-caret-position="0">
+          <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/15/blog/01.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8276515">
-          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+        <state relative-caret-position="0">
+          <caret line="23" column="29" lean-forward="false" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/15/blog/02.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39583334">
-          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        <state relative-caret-position="0">
+          <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/15/blog/03.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.071969695">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="23" selection-end-column="7" />
+        <state relative-caret-position="0">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="23" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/15/blog/04.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46780303">
-          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        <state relative-caret-position="0">
+          <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -1195,178 +1044,240 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/15/pre01.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/15/CSS补充/position3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/15/CSS补充/position2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25189394">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        <state relative-caret-position="0">
+          <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/15/CSS补充/hover_stu.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32386363">
-          <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+        <state relative-caret-position="0">
+          <caret line="33" column="27" lean-forward="false" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/15/CSS补充/dom_nb.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31628788">
-          <caret line="37" column="39" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
+        <state relative-caret-position="0">
+          <caret line="37" column="39" lean-forward="false" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/15/JS/js1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/15/CSS补充/postion_func.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.2594697">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/15/CSS补充/dom.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/15/CSS补充/backgroud-icon.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/15/blog/05.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2159091">
-          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+        <state relative-caret-position="0">
+          <caret line="6" column="15" lean-forward="false" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/15/blog/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.418">
-            <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/15/blog/README.md" />
     <entry file="file://$PROJECT_DIR$/15/blog/06.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7599244">
-          <caret line="48" column="51" selection-start-line="48" selection-start-column="51" selection-end-line="48" selection-end-column="51" />
-          <folding>
-            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#2;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="48" column="51" lean-forward="false" selection-start-line="48" selection-start-column="51" selection-end-line="48" selection-end-column="51" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/15/blog/07-输入框例子.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32325143">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="16" selection-end-column="10" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#input#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#span#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#input#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#span#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="16" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/15/blog/09.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/15/blog/all-in.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/15/blog/07.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/15/blog/08.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/16/s3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.5">
-          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/16/note">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/16/s3 (1).html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/16/r1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42533082">
-          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+        <state relative-caret-position="0">
+          <caret line="20" column="27" lean-forward="false" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16/s3 (1).html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16/r2_js1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16/r3_js2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16/r4_js3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="13" column="14" lean-forward="false" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16/note">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16/r5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17/jquery-1.12.4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17/note">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17/摸态对话框.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="97" column="51" lean-forward="false" selection-start-line="97" selection-start-column="51" selection-end-line="97" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17/摸态对话框2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="92" column="7" lean-forward="false" selection-start-line="92" selection-start-column="7" selection-end-line="92" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17/多级菜单demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17/自己点个赞.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="24" column="26" lean-forward="false" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17/点个赞.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="73" column="36" lean-forward="false" selection-start-line="73" selection-start-column="36" selection-end-line="73" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17/复制添加.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="21" column="35" lean-forward="false" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17/菜单demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="59" column="11" lean-forward="false" selection-start-line="59" selection-start-column="11" selection-end-line="59" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17/s1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
           <folding />
         </state>
       </provider>
